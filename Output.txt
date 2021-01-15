@@ -1,0 +1,2728 @@
+00:04.157	ID:8	Anchor Node 8 booted
+00:04.320	ID:2	Anchor Node 2 booted
+00:04.335	ID:6	Anchor Node 6 booted
+00:04.432	ID:4	Anchor Node 4 booted
+00:04.466	ID:1	Anchor Node 1 booted
+00:04.486	ID:7	Anchor Node 7 booted
+00:04.793	ID:9	Mobile Node booted
+00:04.799	ID:5	Anchor Node 5 booted
+00:04.983	ID:3	Anchor Node 3 booted
+00:09.351	ID:1	Anchor Node 1 is sending sync beacon message
+00:09.363	ID:9	Beacon received from anchor 1
+00:09.363	ID:1	Anchor Node 1 sending beacon message 
+00:09.365	ID:3	Anchor Node 3 received sync instruction from Anchor Node 1
+00:09.365	ID:5	Anchor Node 5 received sync instruction from Anchor Node 1
+00:09.365	ID:7	Anchor Node 7 received sync instruction from Anchor Node 1
+00:09.365	ID:2	Anchor Node 2 received sync instruction from Anchor Node 1
+00:09.365	ID:6	Anchor Node 6 received sync instruction from Anchor Node 1
+00:09.365	ID:4	Anchor Node 4 received sync instruction from Anchor Node 1
+00:09.366	ID:1	Anchor node 1 triggers Timer1
+00:09.373	ID:9	Beacon received from anchor 1
+00:09.376	ID:9	RSSI Before: -999 from 1
+00:09.382	ID:2	Anchor Node 2 sending beacon message 
+00:09.386	ID:2	Anchor node 2 triggers Timer1
+00:09.390	ID:3	Anchor Node 3 sending beacon message 
+00:09.395	ID:3	Anchor node 3 triggers Timer1
+00:09.397	ID:4	Anchor Node 4 sending beacon message 
+00:09.403	ID:4	Anchor node 4 triggers Timer1
+00:09.406	ID:5	Anchor Node 5 sending beacon message 
+00:09.409	ID:5	Anchor node 5 triggers Timer1
+00:09.414	ID:6	Anchor Node 6 sending beacon message 
+00:09.420	ID:6	Anchor node 6 triggers Timer1
+00:09.422	ID:7	Anchor Node 7 sending beacon message 
+00:09.426	ID:7	Anchor node 7 triggers Timer1
+00:09.432	ID:9	Gaussian random value:  0.872587
+00:09.442	ID:9	Gaussian value:  0.387816
+00:09.444	ID:9	RSSI Calculated: -61 from 1
+00:09.448	ID:9	Beacon received from anchor 2
+00:09.451	ID:9	RSSI Before: -999 from 2
+00:09.483	ID:9	Gaussian random value: -0.761466
+00:09.492	ID:9	Gaussian value: -0.338429
+00:09.494	ID:9	RSSI Calculated: -66 from 2
+00:09.498	ID:9	Beacon received from anchor 3
+00:09.501	ID:9	RSSI Before: -999 from 3
+00:09.550	ID:9	Gaussian random value: -0.573480
+00:09.559	ID:9	Gaussian value: -0.254880
+00:09.562	ID:9	RSSI Calculated: -69 from 3
+00:09.565	ID:9	Beacon received from anchor 4
+00:09.568	ID:9	RSSI Before: -999 from 4
+00:09.601	ID:9	Gaussian random value: -0.209317
+00:09.610	ID:9	Gaussian value: -0.093030
+00:09.613	ID:9	RSSI Calculated: -71 from 4
+00:09.617	ID:9	Beacon received from anchor 5
+00:09.619	ID:1	Anchor Node 1 sending beacon message 
+00:09.620	ID:9	RSSI Before: -999 from 5
+00:09.623	ID:1	Anchor node 1 triggers Timer1
+00:09.645	ID:2	Anchor Node 2 sending beacon message 
+00:09.650	ID:2	Anchor node 2 triggers Timer1
+00:09.663	ID:3	Anchor Node 3 sending beacon message 
+00:09.667	ID:3	Anchor node 3 triggers Timer1
+00:09.668	ID:9	Gaussian random value: -0.980532
+00:09.677	ID:9	Gaussian value: -0.435792
+00:09.679	ID:4	Anchor Node 4 sending beacon message 
+00:09.680	ID:9	RSSI Calculated: -66 from 5
+00:09.682	ID:4	Anchor node 4 triggers Timer1
+00:09.693	ID:5	Anchor Node 5 sending beacon message 
+00:09.694	ID:9	Node current position ( 6.000000, 6.000000)
+00:09.696	ID:5	Anchor node 5 triggers Timer1
+00:09.697	ID:9	Node = 1, RSSI = -61
+00:09.699	ID:9	Node = 2, RSSI = -66
+00:09.701	ID:9	Node = 3, RSSI = -69
+00:09.703	ID:9	Node = 4, RSSI = -71
+00:09.705	ID:9	Node = 5, RSSI = -66
+00:09.708	ID:9	Node = -999, RSSI = -999
+00:09.709	ID:6	Anchor Node 6 sending beacon message 
+00:09.712	ID:9	Node = -999, RSSI = -999
+00:09.712	ID:6	Anchor node 6 triggers Timer1
+00:09.715	ID:9	Node = -999, RSSI = -999
+00:09.718	ID:9	Selected nodeID = 1 with RSSI = -61
+00:09.721	ID:9	Selected nodeID = 2 with RSSI = -66
+00:09.724	ID:9	Selected nodeID = 5 with RSSI = -66
+00:09.724	ID:7	Anchor Node 7 sending beacon message 
+00:09.728	ID:7	Anchor node 7 triggers Timer1
+00:09.804	ID:9	
+00:09.814	ID:9	Position 1, distance =  1.258925
+00:09.824	ID:9	Position 2, distance =  3.981071
+00:09.834	ID:9	Position 3, distance =  3.981071
+00:09.875	ID:1	Anchor Node 1 sending beacon message 
+00:09.879	ID:1	Anchor node 1 triggers Timer1
+00:09.909	ID:2	Anchor Node 2 sending beacon message 
+00:09.913	ID:2	Anchor node 2 triggers Timer1
+00:09.935	ID:3	Anchor Node 3 sending beacon message 
+00:09.939	ID:3	Anchor node 3 triggers Timer1
+00:09.958	ID:4	Anchor Node 4 sending beacon message 
+00:09.962	ID:4	Anchor node 4 triggers Timer1
+00:09.980	ID:5	Anchor Node 5 sending beacon message 
+00:09.984	ID:5	Anchor node 5 triggers Timer1
+00:10.004	ID:6	Anchor Node 6 sending beacon message 
+00:10.007	ID:6	Anchor node 6 triggers Timer1
+00:10.018	ID:9	Initial calculated position ( 6.666666, 6.666666))
+00:10.027	ID:7	Anchor Node 7 sending beacon message 
+00:10.031	ID:7	Anchor node 7 triggers Timer1
+00:10.036	ID:9	Estimated position ( 5.995915 ,  5.995915)
+00:10.039	ID:9	Beacon received from anchor 6
+00:10.041	ID:9	RSSI Before: -999 from 6
+00:10.075	ID:9	Gaussian random value: -0.530785
+00:10.084	ID:9	Gaussian value: -0.235904
+00:10.087	ID:9	RSSI Calculated: -67 from 6
+00:10.130	ID:1	Anchor Node 1 sending beacon message 
+00:10.134	ID:1	Anchor node 1 triggers Timer1
+00:10.144	ID:9	Beacon received from anchor 1
+00:10.146	ID:9	RSSI Before: -61 from 1
+00:10.173	ID:2	Anchor Node 2 sending beacon message 
+00:10.177	ID:2	Anchor node 2 triggers Timer1
+00:10.206	ID:3	Anchor Node 3 sending beacon message 
+00:10.210	ID:3	Anchor node 3 triggers Timer1
+00:10.220	ID:9	Gaussian random value:  0.026090
+00:10.229	ID:9	Gaussian value:  0.011595
+00:10.232	ID:9	RSSI Calculated: -61 from 1
+00:10.236	ID:9	Beacon received from anchor 2
+00:10.237	ID:4	Anchor Node 4 sending beacon message 
+00:10.238	ID:9	RSSI Before: -66 from 2
+00:10.241	ID:4	Anchor node 4 triggers Timer1
+00:10.267	ID:5	Anchor Node 5 sending beacon message 
+00:10.271	ID:5	Anchor node 5 triggers Timer1
+00:10.271	ID:9	Gaussian random value:  1.017030
+00:10.280	ID:9	Gaussian value:  0.452013
+00:10.283	ID:9	RSSI Calculated: -65 from 2
+00:10.296	ID:9	Node current position ( 6.000000, 6.000000)
+00:10.298	ID:9	Node = 1, RSSI = -61
+00:10.299	ID:6	Anchor Node 6 sending beacon message 
+00:10.301	ID:9	Node = 2, RSSI = -65
+00:10.302	ID:6	Anchor node 6 triggers Timer1
+00:10.303	ID:9	Node = 3, RSSI = -69
+00:10.305	ID:9	Node = 4, RSSI = -71
+00:10.307	ID:9	Node = 5, RSSI = -66
+00:10.309	ID:9	Node = 6, RSSI = -67
+00:10.313	ID:9	Node = -999, RSSI = -999
+00:10.316	ID:9	Node = -999, RSSI = -999
+00:10.319	ID:9	Selected nodeID = 1 with RSSI = -61
+00:10.322	ID:9	Selected nodeID = 2 with RSSI = -65
+00:10.325	ID:9	Selected nodeID = 5 with RSSI = -66
+00:10.330	ID:7	Anchor Node 7 sending beacon message 
+00:10.333	ID:7	Anchor node 7 triggers Timer1
+00:10.379	ID:9	
+00:10.386	ID:1	Anchor Node 1 sending beacon message 
+00:10.389	ID:9	Position 1, distance =  1.258925
+00:10.390	ID:1	Anchor node 1 triggers Timer1
+00:10.401	ID:9	Position 2, distance =  3.162277
+00:10.411	ID:9	Position 3, distance =  3.981071
+00:10.437	ID:2	Anchor Node 2 sending beacon message 
+00:10.440	ID:2	Anchor node 2 triggers Timer1
+00:10.478	ID:3	Anchor Node 3 sending beacon message 
+00:10.481	ID:3	Anchor node 3 triggers Timer1
+00:10.517	ID:4	Anchor Node 4 sending beacon message 
+00:10.520	ID:4	Anchor node 4 triggers Timer1
+00:10.554	ID:5	Anchor Node 5 sending beacon message 
+00:10.558	ID:5	Anchor node 5 triggers Timer1
+00:10.594	ID:6	Anchor Node 6 sending beacon message 
+00:10.594	ID:9	Initial calculated position ( 8.665305, 8.665305))
+00:10.597	ID:6	Anchor node 6 triggers Timer1
+00:10.612	ID:9	Estimated position ( 6.439785 ,  5.891071)
+00:10.615	ID:9	Beacon received from anchor 3
+00:10.617	ID:9	RSSI Before: -69 from 3
+00:10.632	ID:7	Anchor Node 7 sending beacon message 
+00:10.636	ID:7	Anchor node 7 triggers Timer1
+00:10.643	ID:1	Anchor Node 1 sending beacon message 
+00:10.646	ID:1	Anchor node 1 triggers Timer1
+00:10.651	ID:9	Gaussian random value:  0.316607
+00:10.660	ID:9	Gaussian value:  0.140714
+00:10.662	ID:9	RSSI Calculated: -69 from 3
+00:10.666	ID:9	Beacon received from anchor 4
+00:10.669	ID:9	RSSI Before: -71 from 4
+00:10.700	ID:2	Anchor Node 2 sending beacon message 
+00:10.700	ID:9	Gaussian random value: -0.260183
+00:10.704	ID:2	Anchor node 2 triggers Timer1
+00:10.709	ID:9	Gaussian value: -0.115637
+00:10.712	ID:9	RSSI Calculated: -71 from 4
+00:10.716	ID:9	Beacon received from anchor 5
+00:10.718	ID:9	RSSI Before: -66 from 5
+00:10.749	ID:3	Anchor Node 3 sending beacon message 
+00:10.753	ID:3	Anchor node 3 triggers Timer1
+00:10.779	ID:9	Gaussian random value:  0.526906
+00:10.788	ID:9	Gaussian value:  0.234180
+00:10.791	ID:9	RSSI Calculated: -65 from 5
+00:10.795	ID:9	Beacon received from anchor 6
+00:10.796	ID:4	Anchor Node 4 sending beacon message 
+00:10.797	ID:9	RSSI Before: -67 from 6
+00:10.799	ID:4	Anchor node 4 triggers Timer1
+00:10.831	ID:9	Gaussian random value:  0.466337
+00:10.840	ID:9	Gaussian value:  0.207261
+00:10.841	ID:5	Anchor Node 5 sending beacon message 
+00:10.843	ID:9	RSSI Calculated: -67 from 6
+00:10.845	ID:5	Anchor node 5 triggers Timer1
+00:10.858	ID:9	Node current position ( 6.000000, 6.000000)
+00:10.860	ID:9	Node = 1, RSSI = -61
+00:10.862	ID:9	Node = 2, RSSI = -65
+00:10.864	ID:9	Node = 3, RSSI = -69
+00:10.866	ID:9	Node = 4, RSSI = -71
+00:10.868	ID:9	Node = 5, RSSI = -65
+00:10.871	ID:9	Node = 6, RSSI = -67
+00:10.874	ID:9	Node = -999, RSSI = -999
+00:10.877	ID:9	Node = -999, RSSI = -999
+00:10.880	ID:9	Selected nodeID = 1 with RSSI = -61
+00:10.883	ID:9	Selected nodeID = 2 with RSSI = -65
+00:10.886	ID:9	Selected nodeID = 5 with RSSI = -65
+00:10.889	ID:6	Anchor Node 6 sending beacon message 
+00:10.892	ID:6	Anchor node 6 triggers Timer1
+00:10.900	ID:1	Anchor Node 1 sending beacon message 
+00:10.903	ID:1	Anchor node 1 triggers Timer1
+00:10.915	ID:9	
+00:10.924	ID:9	Position 1, distance =  1.258925
+00:10.934	ID:9	Position 2, distance =  3.162277
+00:10.935	ID:7	Anchor Node 7 sending beacon message 
+00:10.939	ID:7	Anchor node 7 triggers Timer1
+00:10.944	ID:9	Position 3, distance =  3.162277
+00:10.964	ID:2	Anchor Node 2 sending beacon message 
+00:10.967	ID:2	Anchor node 2 triggers Timer1
+00:11.021	ID:3	Anchor Node 3 sending beacon message 
+00:11.025	ID:3	Anchor node 3 triggers Timer1
+00:11.075	ID:4	Anchor Node 4 sending beacon message 
+00:11.079	ID:4	Anchor node 4 triggers Timer1
+00:11.127	ID:9	Initial calculated position ( 8.813262, 8.630356))
+00:11.128	ID:5	Anchor Node 5 sending beacon message 
+00:11.132	ID:5	Anchor node 5 triggers Timer1
+00:11.145	ID:9	Estimated position ( 6.332725 ,  6.332735)
+00:11.148	ID:9	Beacon received from anchor 7
+00:11.150	ID:9	RSSI Before: -999 from 7
+00:11.155	ID:1	Anchor Node 1 sending beacon message 
+00:11.159	ID:1	Anchor node 1 triggers Timer1
+00:11.183	ID:6	Anchor Node 6 sending beacon message 
+00:11.187	ID:6	Anchor node 6 triggers Timer1
+00:11.192	ID:9	Gaussian random value: -0.985950
+00:11.200	ID:9	Gaussian value: -0.438200
+00:11.203	ID:9	RSSI Calculated: -70 from 7
+00:11.228	ID:2	Anchor Node 2 sending beacon message 
+00:11.231	ID:2	Anchor node 2 triggers Timer1
+00:11.238	ID:7	Anchor Node 7 sending beacon message 
+00:11.242	ID:9	Beacon received from anchor 2
+00:11.244	ID:7	Anchor node 7 triggers Timer1
+00:11.244	ID:9	RSSI Before: -65 from 2
+00:11.277	ID:9	Gaussian random value:  0.066107
+00:11.286	ID:9	Gaussian value:  0.029381
+00:11.289	ID:9	RSSI Calculated: -66 from 2
+00:11.292	ID:3	Anchor Node 3 sending beacon message 
+00:11.292	ID:9	Beacon received from anchor 7
+00:11.295	ID:9	RSSI Before: -70 from 7
+00:11.297	ID:3	Anchor node 3 triggers Timer1
+00:11.345	ID:9	Gaussian random value:  0.229482
+00:11.354	ID:9	Gaussian value:  0.101992
+00:11.354	ID:4	Anchor Node 4 sending beacon message 
+00:11.357	ID:9	RSSI Calculated: -69 from 7
+00:11.358	ID:4	Anchor node 4 triggers Timer1
+00:11.361	ID:9	Beacon received from anchor 3
+00:11.363	ID:9	RSSI Before: -69 from 3
+00:11.396	ID:9	Gaussian random value: -0.502613
+00:11.405	ID:9	Gaussian value: -0.223383
+00:11.408	ID:9	RSSI Calculated: -69 from 3
+00:11.411	ID:1	Anchor Node 1 sending beacon message 
+00:11.415	ID:1	Anchor node 1 triggers Timer1
+00:11.417	ID:5	Anchor Node 5 sending beacon message 
+00:11.421	ID:5	Anchor node 5 triggers Timer1
+00:11.423	ID:9	Node current position ( 6.000000, 6.000000)
+00:11.425	ID:9	Node = 1, RSSI = -61
+00:11.427	ID:9	Node = 2, RSSI = -66
+00:11.430	ID:9	Node = 3, RSSI = -69
+00:11.432	ID:9	Node = 4, RSSI = -71
+00:11.434	ID:9	Node = 5, RSSI = -65
+00:11.436	ID:9	Node = 6, RSSI = -67
+00:11.438	ID:9	Node = 7, RSSI = -69
+00:11.441	ID:9	Node = -999, RSSI = -999
+00:11.444	ID:9	Selected nodeID = 1 with RSSI = -61
+00:11.447	ID:9	Selected nodeID = 5 with RSSI = -65
+00:11.450	ID:9	Selected nodeID = 2 with RSSI = -66
+00:11.478	ID:6	Anchor Node 6 sending beacon message 
+00:11.482	ID:6	Anchor node 6 triggers Timer1
+00:11.493	ID:2	Anchor Node 2 sending beacon message 
+00:11.497	ID:2	Anchor node 2 triggers Timer1
+00:11.505	ID:9	
+00:11.515	ID:9	Position 1, distance =  1.258925
+00:11.525	ID:9	Position 2, distance =  3.162277
+00:11.535	ID:9	Position 3, distance =  3.981071
+00:11.542	ID:7	Anchor Node 7 sending beacon message 
+00:11.546	ID:7	Anchor node 7 triggers Timer1
+00:11.564	ID:3	Anchor Node 3 sending beacon message 
+00:11.568	ID:3	Anchor node 3 triggers Timer1
+00:11.634	ID:4	Anchor Node 4 sending beacon message 
+00:11.638	ID:4	Anchor node 4 triggers Timer1
+00:11.667	ID:1	Anchor Node 1 sending beacon message 
+00:11.670	ID:1	Anchor node 1 triggers Timer1
+00:11.704	ID:5	Anchor Node 5 sending beacon message 
+00:11.707	ID:5	Anchor node 5 triggers Timer1
+00:11.719	ID:9	Initial calculated position ( 8.777575, 8.777578))
+00:11.737	ID:9	Estimated position ( 5.891071 ,  6.439785)
+00:11.756	ID:2	Anchor Node 2 sending beacon message 
+00:11.758	ID:9	ERROR - Estimated position ( 6.164874, 6.164876)
+00:11.759	ID:2	Anchor node 2 triggers Timer1
+00:11.771	ID:9	ERROR - Actual position ( 6.000000, 6.000000)
+00:11.773	ID:6	Anchor Node 6 sending beacon message 
+00:11.777	ID:6	Anchor node 6 triggers Timer1
+00:11.790	ID:9	ERROR - Error:  0.233169 at time: 0, with variance:  0.444444
+00:11.792	ID:9	Beacon received from anchor 4
+00:11.795	ID:9	RSSI Before: -71 from 4
+00:11.835	ID:3	Anchor Node 3 sending beacon message 
+00:11.839	ID:3	Anchor node 3 triggers Timer1
+00:11.845	ID:7	Anchor Node 7 sending beacon message 
+00:11.845	ID:9	Gaussian random value: -0.205488
+00:11.848	ID:7	Anchor node 7 triggers Timer1
+00:11.854	ID:9	Gaussian value: -0.182656
+00:11.857	ID:9	RSSI Calculated: -71 from 4
+00:11.861	ID:9	Beacon received from anchor 1
+00:11.863	ID:9	RSSI Before: -61 from 1
+00:11.895	ID:9	Gaussian random value:  0.543376
+00:11.904	ID:9	Gaussian value:  0.483001
+00:11.907	ID:9	RSSI Calculated: -65 from 1
+00:11.911	ID:9	Beacon received from anchor 5
+00:11.913	ID:9	RSSI Before: -65 from 5
+00:11.913	ID:4	Anchor Node 4 sending beacon message 
+00:11.917	ID:4	Anchor node 4 triggers Timer1
+00:11.922	ID:1	Anchor Node 1 sending beacon message 
+00:11.928	ID:1	Anchor node 1 triggers Timer1
+00:11.976	ID:9	Gaussian random value:  1.319826
+00:11.985	ID:9	Gaussian value:  1.173179
+00:11.988	ID:9	RSSI Calculated: -64 from 5
+00:11.991	ID:5	Anchor Node 5 sending beacon message 
+00:11.991	ID:9	Beacon received from anchor 6
+00:11.994	ID:9	RSSI Before: -67 from 6
+00:11.994	ID:5	Anchor node 5 triggers Timer1
+00:12.019	ID:2	Anchor Node 2 sending beacon message 
+00:12.023	ID:2	Anchor node 2 triggers Timer1
+00:12.028	ID:9	Gaussian random value:  0.050476
+00:12.037	ID:9	Gaussian value:  0.044867
+00:12.040	ID:9	RSSI Calculated: -64 from 6
+00:12.055	ID:9	Node current position ( 8.000000, 8.000000)
+00:12.057	ID:9	Node = 1, RSSI = -65
+00:12.059	ID:9	Node = 2, RSSI = -66
+00:12.061	ID:9	Node = 3, RSSI = -69
+00:12.063	ID:9	Node = 4, RSSI = -71
+00:12.066	ID:9	Node = 5, RSSI = -64
+00:12.068	ID:9	Node = 6, RSSI = -64
+00:12.068	ID:6	Anchor Node 6 sending beacon message 
+00:12.070	ID:9	Node = 7, RSSI = -69
+00:12.072	ID:6	Anchor node 6 triggers Timer1
+00:12.073	ID:9	Node = -999, RSSI = -999
+00:12.076	ID:9	Selected nodeID = 5 with RSSI = -64
+00:12.079	ID:9	Selected nodeID = 6 with RSSI = -64
+00:12.082	ID:9	Selected nodeID = 1 with RSSI = -65
+00:12.107	ID:3	Anchor Node 3 sending beacon message 
+00:12.110	ID:3	Anchor node 3 triggers Timer1
+00:12.136	ID:9	
+00:12.146	ID:9	Position 1, distance =  2.511886
+00:12.147	ID:7	Anchor Node 7 sending beacon message 
+00:12.151	ID:7	Anchor node 7 triggers Timer1
+00:12.156	ID:9	Position 2, distance =  2.511886
+00:12.165	ID:9	Position 3, distance =  3.162277
+00:12.179	ID:1	Anchor Node 1 sending beacon message 
+00:12.183	ID:1	Anchor node 1 triggers Timer1
+00:12.193	ID:4	Anchor Node 4 sending beacon message 
+00:12.196	ID:4	Anchor node 4 triggers Timer1
+00:12.278	ID:5	Anchor Node 5 sending beacon message 
+00:12.281	ID:5	Anchor node 5 triggers Timer1
+00:12.283	ID:2	Anchor Node 2 sending beacon message 
+00:12.287	ID:2	Anchor node 2 triggers Timer1
+00:12.363	ID:6	Anchor Node 6 sending beacon message 
+00:12.367	ID:6	Anchor node 6 triggers Timer1
+00:12.378	ID:3	Anchor Node 3 sending beacon message 
+00:12.382	ID:3	Anchor node 3 triggers Timer1
+00:12.415	ID:9	Initial calculated position ( 8.721625, 10.388292))
+00:12.433	ID:9	Estimated position ( 7.207017 ,  8.232918)
+00:12.435	ID:1	Anchor Node 1 sending beacon message 
+00:12.436	ID:9	Beacon received from anchor 2
+00:12.438	ID:9	RSSI Before: -66 from 2
+00:12.439	ID:1	Anchor node 1 triggers Timer1
+00:12.450	ID:7	Anchor Node 7 sending beacon message 
+00:12.453	ID:7	Anchor node 7 triggers Timer1
+00:12.472	ID:4	Anchor Node 4 sending beacon message 
+00:12.475	ID:4	Anchor node 4 triggers Timer1
+00:12.519	ID:9	Gaussian random value:  0.140694
+00:12.527	ID:9	Gaussian value:  0.125061
+00:12.530	ID:9	RSSI Calculated: -65 from 2
+00:12.534	ID:9	Beacon received from anchor 7
+00:12.536	ID:9	RSSI Before: -69 from 7
+00:12.547	ID:2	Anchor Node 2 sending beacon message 
+00:12.550	ID:2	Anchor node 2 triggers Timer1
+00:12.565	ID:5	Anchor Node 5 sending beacon message 
+00:12.568	ID:9	Gaussian random value: -0.004584
+00:12.569	ID:5	Anchor node 5 triggers Timer1
+00:12.577	ID:9	Gaussian value: -0.004075
+00:12.580	ID:9	RSSI Calculated: -68 from 7
+00:12.650	ID:3	Anchor Node 3 sending beacon message 
+00:12.653	ID:3	Anchor node 3 triggers Timer1
+00:12.659	ID:9	Beacon received from anchor 3
+00:12.660	ID:6	Anchor Node 6 sending beacon message 
+00:12.661	ID:9	RSSI Before: -69 from 3
+00:12.663	ID:6	Anchor node 6 triggers Timer1
+00:12.691	ID:1	Anchor Node 1 sending beacon message 
+00:12.695	ID:1	Anchor node 1 triggers Timer1
+00:12.699	ID:9	Gaussian random value: -0.839124
+00:12.708	ID:9	Gaussian value: -0.745888
+00:12.711	ID:9	RSSI Calculated: -69 from 3
+00:12.726	ID:9	Node current position ( 8.000000, 8.000000)
+00:12.728	ID:9	Node = 1, RSSI = -65
+00:12.730	ID:9	Node = 2, RSSI = -65
+00:12.732	ID:9	Node = 3, RSSI = -69
+00:12.734	ID:9	Node = 4, RSSI = -71
+00:12.737	ID:9	Node = 5, RSSI = -64
+00:12.739	ID:9	Node = 6, RSSI = -64
+00:12.741	ID:9	Node = 7, RSSI = -68
+00:12.744	ID:9	Node = -999, RSSI = -999
+00:12.747	ID:9	Selected nodeID = 5 with RSSI = -64
+00:12.750	ID:9	Selected nodeID = 6 with RSSI = -64
+00:12.751	ID:4	Anchor Node 4 sending beacon message 
+00:12.753	ID:7	Anchor Node 7 sending beacon message 
+00:12.753	ID:9	Selected nodeID = 1 with RSSI = -65
+00:12.754	ID:4	Anchor node 4 triggers Timer1
+00:12.756	ID:7	Anchor node 7 triggers Timer1
+00:12.807	ID:9	
+00:12.811	ID:2	Anchor Node 2 sending beacon message 
+00:12.814	ID:2	Anchor node 2 triggers Timer1
+00:12.817	ID:9	Position 1, distance =  2.511886
+00:12.827	ID:9	Position 2, distance =  2.511886
+00:12.837	ID:9	Position 3, distance =  3.162277
+00:12.852	ID:5	Anchor Node 5 sending beacon message 
+00:12.856	ID:5	Anchor node 5 triggers Timer1
+00:12.921	ID:3	Anchor Node 3 sending beacon message 
+00:12.925	ID:3	Anchor node 3 triggers Timer1
+00:12.947	ID:1	Anchor Node 1 sending beacon message 
+00:12.950	ID:1	Anchor node 1 triggers Timer1
+00:12.956	ID:6	Anchor Node 6 sending beacon message 
+00:12.959	ID:6	Anchor node 6 triggers Timer1
+00:13.030	ID:4	Anchor Node 4 sending beacon message 
+00:13.034	ID:4	Anchor node 4 triggers Timer1
+00:13.037	ID:9	Initial calculated position ( 9.069005, 11.077639))
+00:13.055	ID:9	Estimated position ( 7.207019 ,  8.232920)
+00:13.055	ID:7	Anchor Node 7 sending beacon message 
+00:13.058	ID:9	Beacon received from anchor 6
+00:13.059	ID:7	Anchor node 7 triggers Timer1
+00:13.060	ID:9	RSSI Before: -64 from 6
+00:13.074	ID:2	Anchor Node 2 sending beacon message 
+00:13.078	ID:2	Anchor node 2 triggers Timer1
+00:13.096	ID:9	Gaussian random value:  0.448508
+00:13.105	ID:9	Gaussian value:  0.398674
+00:13.108	ID:9	RSSI Calculated: -64 from 6
+00:13.112	ID:9	Beacon received from anchor 1
+00:13.114	ID:9	RSSI Before: -65 from 1
+00:13.139	ID:5	Anchor Node 5 sending beacon message 
+00:13.143	ID:5	Anchor node 5 triggers Timer1
+00:13.183	ID:9	Gaussian random value:  0.184975
+00:13.192	ID:9	Gaussian value:  0.164422
+00:13.192	ID:3	Anchor Node 3 sending beacon message 
+00:13.194	ID:9	RSSI Calculated: -66 from 1
+00:13.196	ID:3	Anchor node 3 triggers Timer1
+00:13.198	ID:9	Beacon received from anchor 7
+00:13.201	ID:9	RSSI Before: -68 from 7
+00:13.203	ID:1	Anchor Node 1 sending beacon message 
+00:13.207	ID:1	Anchor node 1 triggers Timer1
+00:13.233	ID:9	Gaussian random value: -0.777034
+00:13.242	ID:9	Gaussian value: -0.690697
+00:13.245	ID:9	RSSI Calculated: -69 from 7
+00:13.249	ID:9	Beacon received from anchor 4
+00:13.250	ID:6	Anchor Node 6 sending beacon message 
+00:13.251	ID:9	RSSI Before: -71 from 4
+00:13.253	ID:6	Anchor node 6 triggers Timer1
+00:13.289	ID:9	Gaussian random value: -0.368593
+00:13.297	ID:9	Gaussian value: -0.327638
+00:13.300	ID:9	RSSI Calculated: -71 from 4
+00:13.309	ID:4	Anchor Node 4 sending beacon message 
+00:13.313	ID:4	Anchor node 4 triggers Timer1
+00:13.315	ID:9	Node current position ( 8.000000, 8.000000)
+00:13.317	ID:9	Node = 1, RSSI = -66
+00:13.319	ID:9	Node = 2, RSSI = -65
+00:13.321	ID:9	Node = 3, RSSI = -69
+00:13.323	ID:9	Node = 4, RSSI = -71
+00:13.326	ID:9	Node = 5, RSSI = -64
+00:13.328	ID:9	Node = 6, RSSI = -64
+00:13.330	ID:9	Node = 7, RSSI = -69
+00:13.333	ID:9	Node = -999, RSSI = -999
+00:13.336	ID:9	Selected nodeID = 5 with RSSI = -64
+00:13.338	ID:2	Anchor Node 2 sending beacon message 
+00:13.339	ID:9	Selected nodeID = 6 with RSSI = -64
+00:13.341	ID:2	Anchor node 2 triggers Timer1
+00:13.342	ID:9	Selected nodeID = 2 with RSSI = -65
+00:13.358	ID:7	Anchor Node 7 sending beacon message 
+00:13.362	ID:7	Anchor node 7 triggers Timer1
+00:13.396	ID:9	
+00:13.406	ID:9	Position 1, distance =  2.511886
+00:13.416	ID:9	Position 2, distance =  2.511886
+00:13.425	ID:9	Position 3, distance =  3.162277
+00:13.426	ID:5	Anchor Node 5 sending beacon message 
+00:13.430	ID:5	Anchor node 5 triggers Timer1
+00:13.459	ID:1	Anchor Node 1 sending beacon message 
+00:13.462	ID:1	Anchor node 1 triggers Timer1
+00:13.464	ID:3	Anchor Node 3 sending beacon message 
+00:13.469	ID:3	Anchor node 3 triggers Timer1
+00:13.545	ID:6	Anchor Node 6 sending beacon message 
+00:13.549	ID:6	Anchor node 6 triggers Timer1
+00:13.589	ID:4	Anchor Node 4 sending beacon message 
+00:13.592	ID:4	Anchor node 4 triggers Timer1
+00:13.603	ID:2	Anchor Node 2 sending beacon message 
+00:13.607	ID:2	Anchor node 2 triggers Timer1
+00:13.643	ID:9	Initial calculated position ( 10.735672, 11.077640))
+00:13.660	ID:9	Estimated position ( 7.792983 ,  8.232920)
+00:13.661	ID:7	Anchor Node 7 sending beacon message 
+00:13.663	ID:9	Beacon received from anchor 2
+00:13.664	ID:7	Anchor node 7 triggers Timer1
+00:13.665	ID:9	RSSI Before: -65 from 2
+00:13.698	ID:9	Gaussian random value: -0.191267
+00:13.706	ID:9	Gaussian value: -0.170015
+00:13.709	ID:9	RSSI Calculated: -65 from 2
+00:13.713	ID:9	Beacon received from anchor 5
+00:13.714	ID:5	Anchor Node 5 sending beacon message 
+00:13.714	ID:1	Anchor Node 1 sending beacon message 
+00:13.715	ID:9	RSSI Before: -64 from 5
+00:13.718	ID:5	Anchor node 5 triggers Timer1
+00:13.718	ID:1	Anchor node 1 triggers Timer1
+00:13.735	ID:3	Anchor Node 3 sending beacon message 
+00:13.739	ID:3	Anchor node 3 triggers Timer1
+00:13.785	ID:9	Gaussian random value:  0.178326
+00:13.794	ID:9	Gaussian value:  0.158512
+00:13.797	ID:9	RSSI Calculated: -65 from 5
+00:13.840	ID:6	Anchor Node 6 sending beacon message 
+00:13.843	ID:6	Anchor node 6 triggers Timer1
+00:13.853	ID:9	Beacon received from anchor 6
+00:13.855	ID:9	RSSI Before: -64 from 6
+00:13.866	ID:2	Anchor Node 2 sending beacon message 
+00:13.868	ID:4	Anchor Node 4 sending beacon message 
+00:13.870	ID:2	Anchor node 2 triggers Timer1
+00:13.874	ID:4	Anchor node 4 triggers Timer1
+00:13.889	ID:9	Gaussian random value:  0.080417
+00:13.897	ID:9	Gaussian value:  0.071482
+00:13.900	ID:9	RSSI Calculated: -64 from 6
+00:13.915	ID:9	Node current position ( 8.000000, 8.000000)
+00:13.917	ID:9	Node = 1, RSSI = -66
+00:13.919	ID:9	Node = 2, RSSI = -65
+00:13.921	ID:9	Node = 3, RSSI = -69
+00:13.923	ID:9	Node = 4, RSSI = -71
+00:13.926	ID:9	Node = 5, RSSI = -65
+00:13.928	ID:9	Node = 6, RSSI = -64
+00:13.930	ID:9	Node = 7, RSSI = -69
+00:13.933	ID:9	Node = -999, RSSI = -999
+00:13.936	ID:9	Selected nodeID = 6 with RSSI = -64
+00:13.939	ID:9	Selected nodeID = 2 with RSSI = -65
+00:13.942	ID:9	Selected nodeID = 5 with RSSI = -65
+00:13.963	ID:7	Anchor Node 7 sending beacon message 
+00:13.967	ID:7	Anchor node 7 triggers Timer1
+00:13.970	ID:1	Anchor Node 1 sending beacon message 
+00:13.971	ID:9	
+00:13.974	ID:1	Anchor node 1 triggers Timer1
+00:13.981	ID:9	Position 1, distance =  2.511886
+00:13.990	ID:9	Position 2, distance =  3.162277
+00:14.000	ID:9	Position 3, distance =  3.162277
+00:14.001	ID:5	Anchor Node 5 sending beacon message 
+00:14.005	ID:5	Anchor node 5 triggers Timer1
+00:14.007	ID:3	Anchor Node 3 sending beacon message 
+00:14.012	ID:3	Anchor node 3 triggers Timer1
+00:14.130	ID:2	Anchor Node 2 sending beacon message 
+00:14.133	ID:2	Anchor node 2 triggers Timer1
+00:14.135	ID:6	Anchor Node 6 sending beacon message 
+00:14.138	ID:6	Anchor node 6 triggers Timer1
+00:14.149	ID:4	Anchor Node 4 sending beacon message 
+00:14.152	ID:4	Anchor node 4 triggers Timer1
+00:14.218	ID:9	Initial calculated position ( 10.930995, 11.077640))
+00:14.226	ID:1	Anchor Node 1 sending beacon message 
+00:14.230	ID:1	Anchor node 1 triggers Timer1
+00:14.236	ID:9	Estimated position ( 8.075939 ,  8.075939)
+00:14.257	ID:9	ERROR - Estimated position ( 7.570739, 8.193675)
+00:14.266	ID:7	Anchor Node 7 sending beacon message 
+00:14.270	ID:7	Anchor node 7 triggers Timer1
+00:14.270	ID:9	ERROR - Actual position ( 8.000000, 8.000000)
+00:14.280	ID:3	Anchor Node 3 sending beacon message 
+00:14.284	ID:3	Anchor node 3 triggers Timer1
+00:14.289	ID:5	Anchor Node 5 sending beacon message 
+00:14.289	ID:9	ERROR - Error:  0.470929 at time: 1, with variance:  0.888888
+00:14.291	ID:9	Beacon received from anchor 2
+00:14.294	ID:9	RSSI Before: -65 from 2
+00:14.294	ID:5	Anchor node 5 triggers Timer1
+00:14.341	ID:9	Gaussian random value:  1.045614
+00:14.350	ID:9	Gaussian value:  1.394152
+00:14.353	ID:9	RSSI Calculated: -62 from 2
+00:14.357	ID:9	Beacon received from anchor 4
+00:14.359	ID:9	RSSI Before: -71 from 4
+00:14.392	ID:9	Gaussian random value:  1.115270
+00:14.394	ID:2	Anchor Node 2 sending beacon message 
+00:14.397	ID:2	Anchor node 2 triggers Timer1
+00:14.402	ID:9	Gaussian value:  1.487026
+00:14.404	ID:9	RSSI Calculated: -67 from 4
+00:14.408	ID:9	Beacon received from anchor 7
+00:14.411	ID:9	RSSI Before: -69 from 7
+00:14.428	ID:4	Anchor Node 4 sending beacon message 
+00:14.430	ID:6	Anchor Node 6 sending beacon message 
+00:14.431	ID:4	Anchor node 4 triggers Timer1
+00:14.433	ID:6	Anchor node 6 triggers Timer1
+00:14.468	ID:9	Gaussian random value: -0.074831
+00:14.477	ID:9	Gaussian value: -0.099775
+00:14.479	ID:9	RSSI Calculated: -67 from 7
+00:14.482	ID:1	Anchor Node 1 sending beacon message 
+00:14.483	ID:9	Beacon received from anchor 3
+00:14.485	ID:9	RSSI Before: -69 from 3
+00:14.486	ID:1	Anchor node 1 triggers Timer1
+00:14.518	ID:9	Gaussian random value: -0.761171
+00:14.527	ID:9	Gaussian value: -1.014895
+00:14.530	ID:9	RSSI Calculated: -66 from 3
+00:14.545	ID:9	Node current position ( 12.000000, 6.000000)
+00:14.547	ID:9	Node = 1, RSSI = -66
+00:14.549	ID:9	Node = 2, RSSI = -62
+00:14.551	ID:3	Anchor Node 3 sending beacon message 
+00:14.551	ID:9	Node = 3, RSSI = -66
+00:14.554	ID:9	Node = 4, RSSI = -67
+00:14.554	ID:3	Anchor node 3 triggers Timer1
+00:14.556	ID:9	Node = 5, RSSI = -65
+00:14.558	ID:9	Node = 6, RSSI = -64
+00:14.560	ID:9	Node = 7, RSSI = -67
+00:14.563	ID:9	Node = -999, RSSI = -999
+00:14.566	ID:9	Selected nodeID = 2 with RSSI = -62
+00:14.569	ID:7	Anchor Node 7 sending beacon message 
+00:14.569	ID:9	Selected nodeID = 6 with RSSI = -64
+00:14.572	ID:9	Selected nodeID = 5 with RSSI = -65
+00:14.573	ID:7	Anchor node 7 triggers Timer1
+00:14.577	ID:5	Anchor Node 5 sending beacon message 
+00:14.580	ID:5	Anchor node 5 triggers Timer1
+00:14.626	ID:9	
+00:14.636	ID:9	Position 1, distance =  1.584893
+00:14.646	ID:9	Position 2, distance =  2.511886
+00:14.656	ID:9	Position 3, distance =  3.162277
+00:14.657	ID:2	Anchor Node 2 sending beacon message 
+00:14.661	ID:2	Anchor node 2 triggers Timer1
+00:14.707	ID:4	Anchor Node 4 sending beacon message 
+00:14.711	ID:4	Anchor node 4 triggers Timer1
+00:14.724	ID:6	Anchor Node 6 sending beacon message 
+00:14.729	ID:6	Anchor node 6 triggers Timer1
+00:14.738	ID:1	Anchor Node 1 sending beacon message 
+00:14.741	ID:1	Anchor node 1 triggers Timer1
+00:14.822	ID:3	Anchor Node 3 sending beacon message 
+00:14.826	ID:3	Anchor node 3 triggers Timer1
+00:14.864	ID:5	Anchor Node 5 sending beacon message 
+00:14.867	ID:5	Anchor node 5 triggers Timer1
+00:14.872	ID:7	Anchor Node 7 sending beacon message 
+00:14.875	ID:7	Anchor node 7 triggers Timer1
+00:14.906	ID:9	Initial calculated position ( 10.856913, 11.064558))
+00:14.921	ID:2	Anchor Node 2 sending beacon message 
+00:14.924	ID:9	Estimated position ( 8.471736 ,  7.435175)
+00:14.924	ID:2	Anchor node 2 triggers Timer1
+00:14.927	ID:9	Beacon received from anchor 2
+00:14.929	ID:9	RSSI Before: -62 from 2
+00:14.969	ID:9	Gaussian random value: -0.457904
+00:14.978	ID:9	Gaussian value: -0.610539
+00:14.981	ID:9	RSSI Calculated: -64 from 2
+00:14.985	ID:9	Beacon received from anchor 6
+00:14.986	ID:4	Anchor Node 4 sending beacon message 
+00:14.987	ID:9	RSSI Before: -64 from 6
+00:14.990	ID:4	Anchor node 4 triggers Timer1
+00:14.994	ID:1	Anchor Node 1 sending beacon message 
+00:14.999	ID:1	Anchor node 1 triggers Timer1
+00:15.019	ID:9	Gaussian random value: -0.500647
+00:15.019	ID:6	Anchor Node 6 sending beacon message 
+00:15.023	ID:6	Anchor node 6 triggers Timer1
+00:15.028	ID:9	Gaussian value: -0.667529
+00:15.031	ID:9	RSSI Calculated: -67 from 6
+00:15.094	ID:3	Anchor Node 3 sending beacon message 
+00:15.097	ID:3	Anchor node 3 triggers Timer1
+00:15.103	ID:9	Beacon received from anchor 3
+00:15.106	ID:9	RSSI Before: -66 from 3
+00:15.151	ID:5	Anchor Node 5 sending beacon message 
+00:15.151	ID:9	Gaussian random value: -0.157763
+00:15.154	ID:5	Anchor node 5 triggers Timer1
+00:15.160	ID:9	Gaussian value: -0.210351
+00:15.163	ID:9	RSSI Calculated: -65 from 3
+00:15.174	ID:7	Anchor Node 7 sending beacon message 
+00:15.176	ID:9	Node current position ( 12.000000, 6.000000)
+00:15.178	ID:7	Anchor node 7 triggers Timer1
+00:15.179	ID:9	Node = 1, RSSI = -66
+00:15.181	ID:9	Node = 2, RSSI = -64
+00:15.183	ID:9	Node = 3, RSSI = -65
+00:15.186	ID:2	Anchor Node 2 sending beacon message 
+00:15.187	ID:9	Node = 4, RSSI = -67
+00:15.189	ID:9	Node = 5, RSSI = -65
+00:15.190	ID:2	Anchor node 2 triggers Timer1
+00:15.191	ID:9	Node = 6, RSSI = -67
+00:15.193	ID:9	Node = 7, RSSI = -67
+00:15.196	ID:9	Node = -999, RSSI = -999
+00:15.199	ID:9	Selected nodeID = 2 with RSSI = -64
+00:15.202	ID:9	Selected nodeID = 3 with RSSI = -65
+00:15.205	ID:9	Selected nodeID = 5 with RSSI = -65
+00:15.234	ID:9	
+00:15.244	ID:9	Position 1, distance =  2.511886
+00:15.250	ID:1	Anchor Node 1 sending beacon message 
+00:15.254	ID:9	Position 2, distance =  3.162277
+00:15.254	ID:1	Anchor node 1 triggers Timer1
+00:15.263	ID:9	Position 3, distance =  3.162277
+00:15.266	ID:4	Anchor Node 4 sending beacon message 
+00:15.269	ID:4	Anchor node 4 triggers Timer1
+00:15.314	ID:6	Anchor Node 6 sending beacon message 
+00:15.318	ID:6	Anchor node 6 triggers Timer1
+00:15.365	ID:3	Anchor Node 3 sending beacon message 
+00:15.369	ID:3	Anchor node 3 triggers Timer1
+00:15.438	ID:5	Anchor Node 5 sending beacon message 
+00:15.442	ID:5	Anchor node 5 triggers Timer1
+00:15.449	ID:2	Anchor Node 2 sending beacon message 
+00:15.455	ID:2	Anchor node 2 triggers Timer1
+00:15.477	ID:7	Anchor Node 7 sending beacon message 
+00:15.481	ID:7	Anchor node 7 triggers Timer1
+00:15.499	ID:9	Initial calculated position ( 12.823912, 9.145058))
+00:15.505	ID:1	Anchor Node 1 sending beacon message 
+00:15.509	ID:1	Anchor node 1 triggers Timer1
+00:15.516	ID:9	Estimated position ( 10.001537 ,  7.506000)
+00:15.519	ID:9	Beacon received from anchor 7
+00:15.521	ID:9	RSSI Before: -67 from 7
+00:15.545	ID:4	Anchor Node 4 sending beacon message 
+00:15.548	ID:4	Anchor node 4 triggers Timer1
+00:15.554	ID:9	Gaussian random value:  1.535458
+00:15.563	ID:9	Gaussian value:  2.047277
+00:15.566	ID:9	RSSI Calculated: -64 from 7
+00:15.570	ID:9	Beacon received from anchor 4
+00:15.572	ID:9	RSSI Before: -67 from 4
+00:15.609	ID:6	Anchor Node 6 sending beacon message 
+00:15.613	ID:6	Anchor node 6 triggers Timer1
+00:15.616	ID:9	Gaussian random value:  0.242311
+00:15.625	ID:9	Gaussian value:  0.323081
+00:15.628	ID:9	RSSI Calculated: -68 from 4
+00:15.637	ID:3	Anchor Node 3 sending beacon message 
+00:15.640	ID:3	Anchor node 3 triggers Timer1
+00:15.715	ID:2	Anchor Node 2 sending beacon message 
+00:15.718	ID:2	Anchor node 2 triggers Timer1
+00:15.727	ID:5	Anchor Node 5 sending beacon message 
+00:15.730	ID:5	Anchor node 5 triggers Timer1
+00:15.755	ID:9	Node current position ( 12.000000, 6.000000)
+00:15.757	ID:9	Node = 1, RSSI = -66
+00:15.759	ID:9	Node = 2, RSSI = -64
+00:15.761	ID:9	Node = 3, RSSI = -65
+00:15.761	ID:1	Anchor Node 1 sending beacon message 
+00:15.763	ID:9	Node = 4, RSSI = -68
+00:15.765	ID:1	Anchor node 1 triggers Timer1
+00:15.765	ID:9	Node = 5, RSSI = -65
+00:15.768	ID:9	Node = 6, RSSI = -67
+00:15.770	ID:9	Node = 7, RSSI = -64
+00:15.773	ID:9	Node = -999, RSSI = -999
+00:15.776	ID:9	Selected nodeID = 2 with RSSI = -64
+00:15.779	ID:9	Selected nodeID = 7 with RSSI = -64
+00:15.780	ID:7	Anchor Node 7 sending beacon message 
+00:15.782	ID:9	Selected nodeID = 3 with RSSI = -65
+00:15.784	ID:7	Anchor node 7 triggers Timer1
+00:15.824	ID:4	Anchor Node 4 sending beacon message 
+00:15.828	ID:4	Anchor node 4 triggers Timer1
+00:15.838	ID:9	
+00:15.848	ID:9	Position 1, distance =  2.511886
+00:15.857	ID:9	Position 2, distance =  2.511886
+00:15.867	ID:9	Position 3, distance =  3.162277
+00:15.904	ID:6	Anchor Node 6 sending beacon message 
+00:15.908	ID:6	Anchor node 6 triggers Timer1
+00:15.908	ID:3	Anchor Node 3 sending beacon message 
+00:15.914	ID:3	Anchor node 3 triggers Timer1
+00:15.978	ID:2	Anchor Node 2 sending beacon message 
+00:15.982	ID:2	Anchor node 2 triggers Timer1
+00:16.013	ID:5	Anchor Node 5 sending beacon message 
+00:16.017	ID:5	Anchor node 5 triggers Timer1
+00:16.017	ID:1	Anchor Node 1 sending beacon message 
+00:16.021	ID:1	Anchor node 1 triggers Timer1
+00:16.068	ID:9	Initial calculated position ( 16.667179, 9.168666))
+00:16.084	ID:7	Anchor Node 7 sending beacon message 
+00:16.086	ID:9	Estimated position ( 12.666811 ,  7.333188)
+00:16.087	ID:7	Anchor node 7 triggers Timer1
+00:16.089	ID:9	Beacon received from anchor 3
+00:16.091	ID:9	RSSI Before: -65 from 3
+00:16.103	ID:4	Anchor Node 4 sending beacon message 
+00:16.107	ID:4	Anchor node 4 triggers Timer1
+00:16.125	ID:9	Gaussian random value: -0.948834
+00:16.134	ID:9	Gaussian value: -1.265112
+00:16.137	ID:9	RSSI Calculated: -66 from 3
+00:16.141	ID:9	Beacon received from anchor 7
+00:16.143	ID:9	RSSI Before: -64 from 7
+00:16.180	ID:3	Anchor Node 3 sending beacon message 
+00:16.183	ID:3	Anchor node 3 triggers Timer1
+00:16.190	ID:9	Gaussian random value:  0.332477
+00:16.199	ID:9	Gaussian value:  0.443303
+00:16.199	ID:6	Anchor Node 6 sending beacon message 
+00:16.202	ID:9	RSSI Calculated: -66 from 7
+00:16.203	ID:6	Anchor node 6 triggers Timer1
+00:16.205	ID:9	Beacon received from anchor 4
+00:16.208	ID:9	RSSI Before: -68 from 4
+00:16.240	ID:9	Gaussian random value:  0.920141
+00:16.242	ID:2	Anchor Node 2 sending beacon message 
+00:16.246	ID:2	Anchor node 2 triggers Timer1
+00:16.249	ID:9	Gaussian value:  1.226854
+00:16.252	ID:9	RSSI Calculated: -67 from 4
+00:16.256	ID:9	Beacon received from anchor 3
+00:16.258	ID:9	RSSI Before: -66 from 3
+00:16.273	ID:1	Anchor Node 1 sending beacon message 
+00:16.277	ID:1	Anchor node 1 triggers Timer1
+00:16.293	ID:9	Gaussian random value: -0.066982
+00:16.300	ID:5	Anchor Node 5 sending beacon message 
+00:16.302	ID:9	Gaussian value: -0.089309
+00:16.305	ID:5	Anchor node 5 triggers Timer1
+00:16.305	ID:9	RSSI Calculated: -65 from 3
+00:16.309	ID:9	Beacon received from anchor 7
+00:16.311	ID:9	RSSI Before: -66 from 7
+00:16.342	ID:9	Gaussian random value: -0.419290
+00:16.351	ID:9	Gaussian value: -0.559053
+00:16.354	ID:9	RSSI Calculated: -67 from 7
+00:16.368	ID:9	Node current position ( 12.000000, 6.000000)
+00:16.370	ID:9	Node = 1, RSSI = -66
+00:16.372	ID:9	Node = 2, RSSI = -64
+00:16.374	ID:9	Node = 3, RSSI = -65
+00:16.376	ID:9	Node = 4, RSSI = -67
+00:16.378	ID:9	Node = 5, RSSI = -65
+00:16.380	ID:9	Node = 6, RSSI = -67
+00:16.383	ID:9	Node = 7, RSSI = -67
+00:16.383	ID:4	Anchor Node 4 sending beacon message 
+00:16.386	ID:9	Node = -999, RSSI = -999
+00:16.386	ID:4	Anchor node 4 triggers Timer1
+00:16.386	ID:7	Anchor Node 7 sending beacon message 
+00:16.389	ID:9	Selected nodeID = 2 with RSSI = -64
+00:16.392	ID:7	Anchor node 7 triggers Timer1
+00:16.392	ID:9	Selected nodeID = 3 with RSSI = -65
+00:16.395	ID:9	Selected nodeID = 5 with RSSI = -65
+00:16.423	ID:9	
+00:16.433	ID:9	Position 1, distance =  2.511886
+00:16.443	ID:9	Position 2, distance =  3.162277
+00:16.451	ID:3	Anchor Node 3 sending beacon message 
+00:16.453	ID:9	Position 3, distance =  3.162277
+00:16.455	ID:3	Anchor node 3 triggers Timer1
+00:16.494	ID:6	Anchor Node 6 sending beacon message 
+00:16.498	ID:6	Anchor node 6 triggers Timer1
+00:16.506	ID:2	Anchor Node 2 sending beacon message 
+00:16.509	ID:2	Anchor node 2 triggers Timer1
+00:16.529	ID:1	Anchor Node 1 sending beacon message 
+00:16.533	ID:1	Anchor node 1 triggers Timer1
+00:16.587	ID:5	Anchor Node 5 sending beacon message 
+00:16.591	ID:5	Anchor node 5 triggers Timer1
+00:16.662	ID:4	Anchor Node 4 sending beacon message 
+00:16.666	ID:4	Anchor node 4 triggers Timer1
+00:16.689	ID:7	Anchor Node 7 sending beacon message 
+00:16.693	ID:7	Anchor node 7 triggers Timer1
+00:16.704	ID:9	Initial calculated position ( 14.222270, 9.111063))
+00:16.721	ID:9	Estimated position ( 10.001531 ,  7.506008)
+00:16.723	ID:3	Anchor Node 3 sending beacon message 
+00:16.726	ID:3	Anchor node 3 triggers Timer1
+00:16.743	ID:9	ERROR - Estimated position ( 10.285404, 7.445093)
+00:16.756	ID:9	ERROR - Actual position ( 12.000000, 6.000000)
+00:16.769	ID:2	Anchor Node 2 sending beacon message 
+00:16.773	ID:2	Anchor node 2 triggers Timer1
+00:16.775	ID:9	ERROR - Error:  2.242349 at time: 2, with variance:  1.333333
+00:16.785	ID:1	Anchor Node 1 sending beacon message 
+00:16.788	ID:1	Anchor node 1 triggers Timer1
+00:16.789	ID:6	Anchor Node 6 sending beacon message 
+00:16.793	ID:6	Anchor node 6 triggers Timer1
+00:16.874	ID:5	Anchor Node 5 sending beacon message 
+00:16.879	ID:5	Anchor node 5 triggers Timer1
+00:16.941	ID:4	Anchor Node 4 sending beacon message 
+00:16.945	ID:4	Anchor node 4 triggers Timer1
+00:16.992	ID:7	Anchor Node 7 sending beacon message 
+00:16.994	ID:3	Anchor Node 3 sending beacon message 
+00:16.995	ID:7	Anchor node 7 triggers Timer1
+00:16.998	ID:3	Anchor node 3 triggers Timer1
+00:17.006	ID:9	Beacon received from anchor 3
+00:17.008	ID:9	RSSI Before: -65 from 3
+00:17.033	ID:2	Anchor Node 2 sending beacon message 
+00:17.037	ID:2	Anchor node 2 triggers Timer1
+00:17.041	ID:1	Anchor Node 1 sending beacon message 
+00:17.047	ID:1	Anchor node 1 triggers Timer1
+00:17.067	ID:9	Gaussian random value: -0.257694
+00:17.077	ID:9	Gaussian value: -0.458123
+00:17.079	ID:9	RSSI Calculated: -66 from 3
+00:17.083	ID:9	Beacon received from anchor 7
+00:17.084	ID:6	Anchor Node 6 sending beacon message 
+00:17.086	ID:9	RSSI Before: -67 from 7
+00:17.087	ID:6	Anchor node 6 triggers Timer1
+00:17.118	ID:9	Gaussian random value: -0.723082
+00:17.127	ID:9	Gaussian value: -1.285480
+00:17.130	ID:9	RSSI Calculated: -67 from 7
+00:17.162	ID:5	Anchor Node 5 sending beacon message 
+00:17.165	ID:5	Anchor node 5 triggers Timer1
+00:17.221	ID:4	Anchor Node 4 sending beacon message 
+00:17.224	ID:4	Anchor node 4 triggers Timer1
+00:17.266	ID:3	Anchor Node 3 sending beacon message 
+00:17.268	ID:9	Node current position ( 12.000000, 7.000000)
+00:17.269	ID:3	Anchor node 3 triggers Timer1
+00:17.271	ID:9	Node = 1, RSSI = -66
+00:17.273	ID:9	Node = 2, RSSI = -64
+00:17.275	ID:9	Node = 3, RSSI = -66
+00:17.279	ID:9	Node = 4, RSSI = -67
+00:17.281	ID:9	Node = 5, RSSI = -65
+00:17.283	ID:9	Node = 6, RSSI = -67
+00:17.285	ID:9	Node = 7, RSSI = -67
+00:17.288	ID:9	Node = -999, RSSI = -999
+00:17.291	ID:9	Selected nodeID = 2 with RSSI = -64
+00:17.294	ID:9	Selected nodeID = 5 with RSSI = -65
+00:17.295	ID:7	Anchor Node 7 sending beacon message 
+00:17.296	ID:1	Anchor Node 1 sending beacon message 
+00:17.297	ID:2	Anchor Node 2 sending beacon message 
+00:17.297	ID:9	Selected nodeID = 1 with RSSI = -66
+00:17.298	ID:7	Anchor node 7 triggers Timer1
+00:17.301	ID:2	Anchor node 2 triggers Timer1
+00:17.301	ID:1	Anchor node 1 triggers Timer1
+00:17.352	ID:9	
+00:17.362	ID:9	Position 1, distance =  2.511886
+00:17.371	ID:9	Position 2, distance =  3.162277
+00:17.379	ID:6	Anchor Node 6 sending beacon message 
+00:17.381	ID:9	Position 3, distance =  3.981071
+00:17.382	ID:6	Anchor node 6 triggers Timer1
+00:17.449	ID:5	Anchor Node 5 sending beacon message 
+00:17.452	ID:5	Anchor node 5 triggers Timer1
+00:17.500	ID:4	Anchor Node 4 sending beacon message 
+00:17.504	ID:4	Anchor node 4 triggers Timer1
+00:17.537	ID:3	Anchor Node 3 sending beacon message 
+00:17.541	ID:3	Anchor node 3 triggers Timer1
+00:17.553	ID:1	Anchor Node 1 sending beacon message 
+00:17.557	ID:1	Anchor node 1 triggers Timer1
+00:17.562	ID:2	Anchor Node 2 sending beacon message 
+00:17.566	ID:9	Initial calculated position ( 10.095134, 9.148364))
+00:17.566	ID:2	Anchor node 2 triggers Timer1
+00:17.584	ID:9	Estimated position ( 7.951183 ,  7.482646)
+00:17.586	ID:9	Beacon received from anchor 2
+00:17.588	ID:9	RSSI Before: -64 from 2
+00:17.597	ID:7	Anchor Node 7 sending beacon message 
+00:17.601	ID:7	Anchor node 7 triggers Timer1
+00:17.639	ID:9	Gaussian random value:  0.555768
+00:17.648	ID:9	Gaussian value:  0.988033
+00:17.651	ID:9	RSSI Calculated: -63 from 2
+00:17.655	ID:9	Beacon received from anchor 1
+00:17.657	ID:9	RSSI Before: -66 from 1
+00:17.674	ID:6	Anchor Node 6 sending beacon message 
+00:17.678	ID:6	Anchor node 6 triggers Timer1
+00:17.690	ID:9	Gaussian random value:  0.171966
+00:17.699	ID:9	Gaussian value:  0.305718
+00:17.702	ID:9	RSSI Calculated: -68 from 1
+00:17.706	ID:9	Beacon received from anchor 6
+00:17.708	ID:9	RSSI Before: -67 from 6
+00:17.736	ID:5	Anchor Node 5 sending beacon message 
+00:17.739	ID:5	Anchor node 5 triggers Timer1
+00:17.765	ID:9	Gaussian random value: -0.714320
+00:17.774	ID:9	Gaussian value: -1.269902
+00:17.777	ID:9	RSSI Calculated: -66 from 6
+00:17.779	ID:4	Anchor Node 4 sending beacon message 
+00:17.780	ID:9	Beacon received from anchor 5
+00:17.782	ID:9	RSSI Before: -65 from 5
+00:17.783	ID:4	Anchor node 4 triggers Timer1
+00:17.809	ID:3	Anchor Node 3 sending beacon message 
+00:17.809	ID:1	Anchor Node 1 sending beacon message 
+00:17.812	ID:3	Anchor node 3 triggers Timer1
+00:17.813	ID:1	Anchor node 1 triggers Timer1
+00:17.816	ID:9	Gaussian random value:  0.103391
+00:17.825	ID:9	Gaussian value:  0.183806
+00:17.825	ID:2	Anchor Node 2 sending beacon message 
+00:17.828	ID:9	RSSI Calculated: -68 from 5
+00:17.829	ID:2	Anchor node 2 triggers Timer1
+00:17.842	ID:9	Node current position ( 12.000000, 7.000000)
+00:17.845	ID:9	Node = 1, RSSI = -68
+00:17.847	ID:9	Node = 2, RSSI = -63
+00:17.849	ID:9	Node = 3, RSSI = -66
+00:17.851	ID:9	Node = 4, RSSI = -67
+00:17.853	ID:9	Node = 5, RSSI = -68
+00:17.855	ID:9	Node = 6, RSSI = -66
+00:17.858	ID:9	Node = 7, RSSI = -67
+00:17.861	ID:9	Node = -999, RSSI = -999
+00:17.864	ID:9	Selected nodeID = 2 with RSSI = -63
+00:17.867	ID:9	Selected nodeID = 3 with RSSI = -66
+00:17.870	ID:9	Selected nodeID = 6 with RSSI = -66
+00:17.900	ID:7	Anchor Node 7 sending beacon message 
+00:17.904	ID:7	Anchor node 7 triggers Timer1
+00:17.951	ID:9	
+00:17.961	ID:9	Position 1, distance =  1.995262
+00:17.969	ID:6	Anchor Node 6 sending beacon message 
+00:17.971	ID:9	Position 2, distance =  3.981071
+00:17.972	ID:6	Anchor node 6 triggers Timer1
+00:17.981	ID:9	Position 3, distance =  3.981071
+00:18.023	ID:5	Anchor Node 5 sending beacon message 
+00:18.027	ID:5	Anchor node 5 triggers Timer1
+00:18.058	ID:4	Anchor Node 4 sending beacon message 
+00:18.062	ID:4	Anchor node 4 triggers Timer1
+00:18.065	ID:1	Anchor Node 1 sending beacon message 
+00:18.069	ID:1	Anchor node 1 triggers Timer1
+00:18.080	ID:3	Anchor Node 3 sending beacon message 
+00:18.084	ID:3	Anchor node 3 triggers Timer1
+00:18.089	ID:2	Anchor Node 2 sending beacon message 
+00:18.094	ID:2	Anchor node 2 triggers Timer1
+00:18.203	ID:7	Anchor Node 7 sending beacon message 
+00:18.206	ID:7	Anchor node 7 triggers Timer1
+00:18.214	ID:9	Initial calculated position ( 14.317061, 9.160882))
+00:18.232	ID:9	Estimated position ( 11.356138 ,  6.356137)
+00:18.235	ID:9	Beacon received from anchor 4
+00:18.237	ID:9	RSSI Before: -67 from 4
+00:18.264	ID:6	Anchor Node 6 sending beacon message 
+00:18.267	ID:6	Anchor node 6 triggers Timer1
+00:18.273	ID:9	Gaussian random value:  0.029409
+00:18.282	ID:9	Gaussian value:  0.052283
+00:18.285	ID:9	RSSI Calculated: -69 from 4
+00:18.310	ID:5	Anchor Node 5 sending beacon message 
+00:18.314	ID:5	Anchor node 5 triggers Timer1
+00:18.318	ID:9	Beacon received from anchor 5
+00:18.320	ID:9	RSSI Before: -68 from 5
+00:18.321	ID:1	Anchor Node 1 sending beacon message 
+00:18.324	ID:1	Anchor node 1 triggers Timer1
+00:18.338	ID:4	Anchor Node 4 sending beacon message 
+00:18.342	ID:4	Anchor node 4 triggers Timer1
+00:18.352	ID:3	Anchor Node 3 sending beacon message 
+00:18.353	ID:2	Anchor Node 2 sending beacon message 
+00:18.355	ID:9	Gaussian random value:  1.307550
+00:18.355	ID:3	Anchor node 3 triggers Timer1
+00:18.356	ID:2	Anchor node 2 triggers Timer1
+00:18.364	ID:9	Gaussian value:  2.324534
+00:18.367	ID:9	RSSI Calculated: -66 from 5
+00:18.370	ID:9	Beacon received from anchor 1
+00:18.373	ID:9	RSSI Before: -68 from 1
+00:18.426	ID:9	Gaussian random value: -0.159002
+00:18.435	ID:9	Gaussian value: -0.282671
+00:18.438	ID:9	RSSI Calculated: -68 from 1
+00:18.441	ID:9	Beacon received from anchor 4
+00:18.444	ID:9	RSSI Before: -69 from 4
+00:18.476	ID:9	Gaussian random value: -0.753152
+00:18.485	ID:9	Gaussian value: -1.338937
+00:18.488	ID:9	RSSI Calculated: -70 from 4
+00:18.501	ID:9	Node current position ( 12.000000, 7.000000)
+00:18.503	ID:9	Node = 1, RSSI = -68
+00:18.505	ID:9	Node = 2, RSSI = -63
+00:18.505	ID:7	Anchor Node 7 sending beacon message 
+00:18.508	ID:9	Node = 3, RSSI = -66
+00:18.509	ID:7	Anchor node 7 triggers Timer1
+00:18.510	ID:9	Node = 4, RSSI = -70
+00:18.512	ID:9	Node = 5, RSSI = -66
+00:18.514	ID:9	Node = 6, RSSI = -66
+00:18.516	ID:9	Node = 7, RSSI = -67
+00:18.520	ID:9	Node = -999, RSSI = -999
+00:18.523	ID:9	Selected nodeID = 2 with RSSI = -63
+00:18.526	ID:9	Selected nodeID = 3 with RSSI = -66
+00:18.529	ID:9	Selected nodeID = 5 with RSSI = -66
+00:18.558	ID:6	Anchor Node 6 sending beacon message 
+00:18.562	ID:6	Anchor node 6 triggers Timer1
+00:18.577	ID:1	Anchor Node 1 sending beacon message 
+00:18.580	ID:1	Anchor node 1 triggers Timer1
+00:18.597	ID:5	Anchor Node 5 sending beacon message 
+00:18.601	ID:5	Anchor node 5 triggers Timer1
+00:18.611	ID:9	
+00:18.616	ID:2	Anchor Node 2 sending beacon message 
+00:18.618	ID:4	Anchor Node 4 sending beacon message 
+00:18.620	ID:2	Anchor node 2 triggers Timer1
+00:18.621	ID:9	Position 1, distance =  1.995262
+00:18.622	ID:4	Anchor node 4 triggers Timer1
+00:18.623	ID:3	Anchor Node 3 sending beacon message 
+00:18.627	ID:3	Anchor node 3 triggers Timer1
+00:18.631	ID:9	Position 2, distance =  3.981071
+00:18.641	ID:9	Position 3, distance =  3.981071
+00:18.808	ID:7	Anchor Node 7 sending beacon message 
+00:18.812	ID:7	Anchor node 7 triggers Timer1
+00:18.833	ID:1	Anchor Node 1 sending beacon message 
+00:18.836	ID:1	Anchor node 1 triggers Timer1
+00:18.853	ID:6	Anchor Node 6 sending beacon message 
+00:18.857	ID:6	Anchor node 6 triggers Timer1
+00:18.880	ID:2	Anchor Node 2 sending beacon message 
+00:18.883	ID:2	Anchor node 2 triggers Timer1
+00:18.884	ID:5	Anchor Node 5 sending beacon message 
+00:18.888	ID:5	Anchor node 5 triggers Timer1
+00:18.890	ID:9	Initial calculated position ( 13.785380, 8.785379))
+00:18.895	ID:3	Anchor Node 3 sending beacon message 
+00:18.897	ID:4	Anchor Node 4 sending beacon message 
+00:18.900	ID:3	Anchor node 3 triggers Timer1
+00:18.901	ID:4	Anchor node 4 triggers Timer1
+00:18.908	ID:9	Estimated position ( 9.905462 ,  7.199047)
+00:18.911	ID:9	Beacon received from anchor 3
+00:18.913	ID:9	RSSI Before: -66 from 3
+00:18.956	ID:9	Gaussian random value: -0.385399
+00:18.965	ID:9	Gaussian value: -0.685155
+00:18.968	ID:9	RSSI Calculated: -66 from 3
+00:18.972	ID:9	Beacon received from anchor 2
+00:18.974	ID:9	RSSI Before: -63 from 2
+00:19.007	ID:9	Gaussian random value:  0.194044
+00:19.016	ID:9	Gaussian value:  0.344968
+00:19.019	ID:9	RSSI Calculated: -64 from 2
+00:19.023	ID:9	Beacon received from anchor 7
+00:19.025	ID:9	RSSI Before: -67 from 7
+00:19.059	ID:9	Gaussian random value: -0.246334
+00:19.067	ID:9	Gaussian value: -0.437927
+00:19.070	ID:9	RSSI Calculated: -66 from 7
+00:19.074	ID:9	Beacon received from anchor 6
+00:19.076	ID:9	RSSI Before: -66 from 6
+00:19.088	ID:1	Anchor Node 1 sending beacon message 
+00:19.092	ID:1	Anchor node 1 triggers Timer1
+00:19.108	ID:9	Gaussian random value:  0.146662
+00:19.111	ID:7	Anchor Node 7 sending beacon message 
+00:19.115	ID:7	Anchor node 7 triggers Timer1
+00:19.117	ID:9	Gaussian value:  0.260733
+00:19.120	ID:9	RSSI Calculated: -65 from 6
+00:19.124	ID:9	Beacon received from anchor 1
+00:19.126	ID:9	RSSI Before: -68 from 1
+00:19.144	ID:2	Anchor Node 2 sending beacon message 
+00:19.147	ID:2	Anchor node 2 triggers Timer1
+00:19.148	ID:6	Anchor Node 6 sending beacon message 
+00:19.154	ID:6	Anchor node 6 triggers Timer1
+00:19.167	ID:3	Anchor Node 3 sending beacon message 
+00:19.171	ID:3	Anchor node 3 triggers Timer1
+00:19.171	ID:5	Anchor Node 5 sending beacon message 
+00:19.174	ID:9	Gaussian random value: -0.186023
+00:19.176	ID:5	Anchor node 5 triggers Timer1
+00:19.177	ID:4	Anchor Node 4 sending beacon message 
+00:19.182	ID:4	Anchor node 4 triggers Timer1
+00:19.183	ID:9	Gaussian value: -0.330708
+00:19.186	ID:9	RSSI Calculated: -68 from 1
+00:19.200	ID:9	Node current position ( 12.000000, 7.000000)
+00:19.202	ID:9	Node = 1, RSSI = -68
+00:19.204	ID:9	Node = 2, RSSI = -64
+00:19.207	ID:9	Node = 3, RSSI = -66
+00:19.209	ID:9	Node = 4, RSSI = -70
+00:19.211	ID:9	Node = 5, RSSI = -66
+00:19.213	ID:9	Node = 6, RSSI = -65
+00:19.215	ID:9	Node = 7, RSSI = -66
+00:19.218	ID:9	Node = -999, RSSI = -999
+00:19.221	ID:9	Selected nodeID = 2 with RSSI = -64
+00:19.224	ID:9	Selected nodeID = 6 with RSSI = -65
+00:19.227	ID:9	Selected nodeID = 3 with RSSI = -66
+00:19.282	ID:9	
+00:19.292	ID:9	Position 1, distance =  2.511886
+00:19.301	ID:9	Position 2, distance =  3.162277
+00:19.311	ID:9	Position 3, distance =  3.981071
+00:19.344	ID:1	Anchor Node 1 sending beacon message 
+00:19.348	ID:1	Anchor node 1 triggers Timer1
+00:19.407	ID:2	Anchor Node 2 sending beacon message 
+00:19.411	ID:2	Anchor node 2 triggers Timer1
+00:19.414	ID:7	Anchor Node 7 sending beacon message 
+00:19.419	ID:7	Anchor node 7 triggers Timer1
+00:19.439	ID:3	Anchor Node 3 sending beacon message 
+00:19.442	ID:3	Anchor node 3 triggers Timer1
+00:19.444	ID:6	Anchor Node 6 sending beacon message 
+00:19.448	ID:6	Anchor node 6 triggers Timer1
+00:19.456	ID:4	Anchor Node 4 sending beacon message 
+00:19.458	ID:5	Anchor Node 5 sending beacon message 
+00:19.460	ID:4	Anchor node 4 triggers Timer1
+00:19.462	ID:5	Anchor node 5 triggers Timer1
+00:19.579	ID:9	Initial calculated position ( 14.968487, 9.066349))
+00:19.597	ID:9	Estimated position ( 11.496566 ,  7.089833)
+00:19.600	ID:1	Anchor Node 1 sending beacon message 
+00:19.604	ID:1	Anchor node 1 triggers Timer1
+00:19.618	ID:9	ERROR - Estimated position ( 10.177337, 7.031916)
+00:19.632	ID:9	ERROR - Actual position ( 12.000000, 7.000000)
+00:19.651	ID:9	ERROR - Error:  1.822941 at time: 3, with variance:  1.777777
+00:19.653	ID:9	Beacon received from anchor 1
+00:19.656	ID:9	RSSI Before: -68 from 1
+00:19.671	ID:2	Anchor Node 2 sending beacon message 
+00:19.674	ID:2	Anchor node 2 triggers Timer1
+00:19.688	ID:9	Gaussian random value:  0.949349
+00:19.697	ID:9	Gaussian value:  2.109665
+00:19.700	ID:9	RSSI Calculated: -67 from 1
+00:19.703	ID:9	Beacon received from anchor 2
+00:19.706	ID:9	RSSI Before: -64 from 2
+00:19.710	ID:3	Anchor Node 3 sending beacon message 
+00:19.714	ID:3	Anchor node 3 triggers Timer1
+00:19.718	ID:7	Anchor Node 7 sending beacon message 
+00:19.722	ID:7	Anchor node 7 triggers Timer1
+00:19.735	ID:4	Anchor Node 4 sending beacon message 
+00:19.739	ID:6	Anchor Node 6 sending beacon message 
+00:19.740	ID:4	Anchor node 4 triggers Timer1
+00:19.745	ID:6	Anchor node 6 triggers Timer1
+00:19.746	ID:5	Anchor Node 5 sending beacon message 
+00:19.750	ID:5	Anchor node 5 triggers Timer1
+00:19.754	ID:9	Gaussian random value: -0.547376
+00:19.763	ID:9	Gaussian value: -1.216393
+00:19.766	ID:9	RSSI Calculated: -68 from 2
+00:19.770	ID:9	Beacon received from anchor 7
+00:19.772	ID:9	RSSI Before: -66 from 7
+00:19.804	ID:9	Gaussian random value: -0.198214
+00:19.813	ID:9	Gaussian value: -0.440476
+00:19.815	ID:9	RSSI Calculated: -63 from 7
+00:19.819	ID:9	Beacon received from anchor 3
+00:19.821	ID:9	RSSI Before: -66 from 3
+00:19.856	ID:1	Anchor Node 1 sending beacon message 
+00:19.860	ID:1	Anchor node 1 triggers Timer1
+00:19.869	ID:9	Gaussian random value:  0.444527
+00:19.878	ID:9	Gaussian value:  0.987838
+00:19.881	ID:9	RSSI Calculated: -64 from 3
+00:19.895	ID:9	Node current position ( 14.000000, 8.000000)
+00:19.898	ID:9	Node = 1, RSSI = -67
+00:19.900	ID:9	Node = 2, RSSI = -68
+00:19.902	ID:9	Node = 3, RSSI = -64
+00:19.904	ID:9	Node = 4, RSSI = -70
+00:19.906	ID:9	Node = 5, RSSI = -66
+00:19.908	ID:9	Node = 6, RSSI = -65
+00:19.911	ID:9	Node = 7, RSSI = -63
+00:19.914	ID:9	Node = -999, RSSI = -999
+00:19.917	ID:9	Selected nodeID = 7 with RSSI = -63
+00:19.920	ID:9	Selected nodeID = 3 with RSSI = -64
+00:19.923	ID:9	Selected nodeID = 6 with RSSI = -65
+00:19.935	ID:2	Anchor Node 2 sending beacon message 
+00:19.938	ID:2	Anchor node 2 triggers Timer1
+00:19.977	ID:9	
+00:19.982	ID:3	Anchor Node 3 sending beacon message 
+00:19.985	ID:3	Anchor node 3 triggers Timer1
+00:19.987	ID:9	Position 1, distance =  1.995262
+00:19.997	ID:9	Position 2, distance =  2.511886
+00:20.007	ID:9	Position 3, distance =  3.162277
+00:20.015	ID:4	Anchor Node 4 sending beacon message 
+00:20.018	ID:4	Anchor node 4 triggers Timer1
+00:20.020	ID:7	Anchor Node 7 sending beacon message 
+00:20.025	ID:7	Anchor node 7 triggers Timer1
+00:20.033	ID:5	Anchor Node 5 sending beacon message 
+00:20.036	ID:6	Anchor Node 6 sending beacon message 
+00:20.036	ID:5	Anchor node 5 triggers Timer1
+00:20.040	ID:6	Anchor node 6 triggers Timer1
+00:20.112	ID:1	Anchor Node 1 sending beacon message 
+00:20.115	ID:1	Anchor node 1 triggers Timer1
+00:20.198	ID:2	Anchor Node 2 sending beacon message 
+00:20.202	ID:2	Anchor node 2 triggers Timer1
+00:20.209	ID:9	Initial calculated position ( 16.725778, 10.677306))
+00:20.227	ID:9	Estimated position ( 13.461635 ,  8.036715)
+00:20.230	ID:9	Beacon received from anchor 6
+00:20.232	ID:9	RSSI Before: -65 from 6
+00:20.253	ID:3	Anchor Node 3 sending beacon message 
+00:20.257	ID:3	Anchor node 3 triggers Timer1
+00:20.264	ID:9	Gaussian random value:  0.579142
+00:20.273	ID:9	Gaussian value:  1.286983
+00:20.276	ID:9	RSSI Calculated: -65 from 6
+00:20.280	ID:9	Beacon received from anchor 4
+00:20.282	ID:9	RSSI Before: -70 from 4
+00:20.294	ID:4	Anchor Node 4 sending beacon message 
+00:20.297	ID:4	Anchor node 4 triggers Timer1
+00:20.320	ID:5	Anchor Node 5 sending beacon message 
+00:20.323	ID:7	Anchor Node 7 sending beacon message 
+00:20.323	ID:5	Anchor node 5 triggers Timer1
+00:20.326	ID:7	Anchor node 7 triggers Timer1
+00:20.333	ID:6	Anchor Node 6 sending beacon message 
+00:20.336	ID:6	Anchor node 6 triggers Timer1
+00:20.368	ID:1	Anchor Node 1 sending beacon message 
+00:20.368	ID:9	Gaussian random value:  0.358205
+00:20.371	ID:1	Anchor node 1 triggers Timer1
+00:20.378	ID:9	Gaussian value:  0.796011
+00:20.380	ID:9	RSSI Calculated: -67 from 4
+00:20.462	ID:2	Anchor Node 2 sending beacon message 
+00:20.465	ID:9	Node current position ( 14.000000, 8.000000)
+00:20.465	ID:2	Anchor node 2 triggers Timer1
+00:20.467	ID:9	Node = 1, RSSI = -67
+00:20.471	ID:9	Node = 2, RSSI = -68
+00:20.473	ID:9	Node = 3, RSSI = -64
+00:20.475	ID:9	Node = 4, RSSI = -67
+00:20.477	ID:9	Node = 5, RSSI = -66
+00:20.479	ID:9	Node = 6, RSSI = -65
+00:20.482	ID:9	Node = 7, RSSI = -63
+00:20.485	ID:9	Node = -999, RSSI = -999
+00:20.488	ID:9	Selected nodeID = 7 with RSSI = -63
+00:20.491	ID:9	Selected nodeID = 3 with RSSI = -64
+00:20.494	ID:9	Selected nodeID = 6 with RSSI = -65
+00:20.525	ID:3	Anchor Node 3 sending beacon message 
+00:20.528	ID:3	Anchor node 3 triggers Timer1
+00:20.548	ID:9	
+00:20.558	ID:9	Position 1, distance =  1.995262
+00:20.568	ID:9	Position 2, distance =  2.511886
+00:20.573	ID:4	Anchor Node 4 sending beacon message 
+00:20.577	ID:4	Anchor node 4 triggers Timer1
+00:20.578	ID:9	Position 3, distance =  3.162277
+00:20.607	ID:5	Anchor Node 5 sending beacon message 
+00:20.610	ID:5	Anchor node 5 triggers Timer1
+00:20.624	ID:1	Anchor Node 1 sending beacon message 
+00:20.626	ID:7	Anchor Node 7 sending beacon message 
+00:20.627	ID:1	Anchor node 1 triggers Timer1
+00:20.628	ID:6	Anchor Node 6 sending beacon message 
+00:20.629	ID:7	Anchor node 7 triggers Timer1
+00:20.632	ID:6	Anchor node 6 triggers Timer1
+00:20.726	ID:2	Anchor Node 2 sending beacon message 
+00:20.729	ID:2	Anchor node 2 triggers Timer1
+00:20.796	ID:9	Initial calculated position ( 17.820545, 11.012238))
+00:20.796	ID:3	Anchor Node 3 sending beacon message 
+00:20.800	ID:3	Anchor node 3 triggers Timer1
+00:20.814	ID:9	Estimated position ( 13.461632 ,  8.036720)
+00:20.816	ID:9	Beacon received from anchor 2
+00:20.819	ID:9	RSSI Before: -68 from 2
+00:20.849	ID:9	Gaussian random value: -0.287006
+00:20.852	ID:4	Anchor Node 4 sending beacon message 
+00:20.856	ID:4	Anchor node 4 triggers Timer1
+00:20.858	ID:9	Gaussian value: -0.637791
+00:20.861	ID:9	RSSI Calculated: -67 from 2
+00:20.865	ID:9	Beacon received from anchor 3
+00:20.867	ID:9	RSSI Before: -64 from 3
+00:20.879	ID:1	Anchor Node 1 sending beacon message 
+00:20.884	ID:1	Anchor node 1 triggers Timer1
+00:20.894	ID:5	Anchor Node 5 sending beacon message 
+00:20.898	ID:5	Anchor node 5 triggers Timer1
+00:20.903	ID:9	Gaussian random value: -1.353485
+00:20.912	ID:9	Gaussian value: -3.007745
+00:20.915	ID:9	RSSI Calculated: -68 from 3
+00:20.919	ID:9	Beacon received from anchor 4
+00:20.921	ID:9	RSSI Before: -67 from 4
+00:20.923	ID:6	Anchor Node 6 sending beacon message 
+00:20.926	ID:6	Anchor node 6 triggers Timer1
+00:20.928	ID:7	Anchor Node 7 sending beacon message 
+00:20.934	ID:7	Anchor node 7 triggers Timer1
+00:20.954	ID:9	Gaussian random value: -1.089905
+00:20.963	ID:9	Gaussian value: -2.422012
+00:20.966	ID:9	RSSI Calculated: -70 from 4
+00:20.970	ID:9	Beacon received from anchor 5
+00:20.972	ID:9	RSSI Before: -66 from 5
+00:20.989	ID:2	Anchor Node 2 sending beacon message 
+00:20.993	ID:2	Anchor node 2 triggers Timer1
+00:21.014	ID:9	Gaussian random value:  0.092328
+00:21.023	ID:9	Gaussian value:  0.205175
+00:21.026	ID:9	RSSI Calculated: -69 from 5
+00:21.030	ID:9	Beacon received from anchor 6
+00:21.032	ID:9	RSSI Before: -65 from 6
+00:21.063	ID:9	Gaussian random value: -0.105191
+00:21.067	ID:3	Anchor Node 3 sending beacon message 
+00:21.071	ID:3	Anchor node 3 triggers Timer1
+00:21.072	ID:9	Gaussian value: -0.233757
+00:21.075	ID:9	RSSI Calculated: -66 from 6
+00:21.090	ID:9	Node current position ( 14.000000, 8.000000)
+00:21.092	ID:9	Node = 1, RSSI = -67
+00:21.094	ID:9	Node = 2, RSSI = -67
+00:21.096	ID:9	Node = 3, RSSI = -68
+00:21.098	ID:9	Node = 4, RSSI = -70
+00:21.101	ID:9	Node = 5, RSSI = -69
+00:21.103	ID:9	Node = 6, RSSI = -66
+00:21.105	ID:9	Node = 7, RSSI = -63
+00:21.108	ID:9	Node = -999, RSSI = -999
+00:21.111	ID:9	Selected nodeID = 7 with RSSI = -63
+00:21.114	ID:9	Selected nodeID = 6 with RSSI = -66
+00:21.117	ID:9	Selected nodeID = 1 with RSSI = -67
+00:21.132	ID:4	Anchor Node 4 sending beacon message 
+00:21.135	ID:1	Anchor Node 1 sending beacon message 
+00:21.135	ID:4	Anchor node 4 triggers Timer1
+00:21.139	ID:1	Anchor node 1 triggers Timer1
+00:21.181	ID:5	Anchor Node 5 sending beacon message 
+00:21.185	ID:5	Anchor node 5 triggers Timer1
+00:21.197	ID:9	
+00:21.208	ID:9	Position 1, distance =  1.995262
+00:21.218	ID:9	Position 2, distance =  3.981071
+00:21.218	ID:6	Anchor Node 6 sending beacon message 
+00:21.222	ID:6	Anchor node 6 triggers Timer1
+00:21.227	ID:9	Position 3, distance =  5.011872
+00:21.233	ID:7	Anchor Node 7 sending beacon message 
+00:21.237	ID:7	Anchor node 7 triggers Timer1
+00:21.253	ID:2	Anchor Node 2 sending beacon message 
+00:21.257	ID:2	Anchor node 2 triggers Timer1
+00:21.339	ID:3	Anchor Node 3 sending beacon message 
+00:21.343	ID:3	Anchor node 3 triggers Timer1
+00:21.391	ID:1	Anchor Node 1 sending beacon message 
+00:21.396	ID:1	Anchor node 1 triggers Timer1
+00:21.411	ID:4	Anchor Node 4 sending beacon message 
+00:21.415	ID:4	Anchor node 4 triggers Timer1
+00:21.427	ID:9	Initial calculated position ( 14.487210, 11.012240))
+00:21.446	ID:9	Estimated position ( 11.820671 ,  7.364070)
+00:21.448	ID:9	Beacon received from anchor 1
+00:21.451	ID:9	RSSI Before: -67 from 1
+00:21.468	ID:5	Anchor Node 5 sending beacon message 
+00:21.472	ID:5	Anchor node 5 triggers Timer1
+00:21.485	ID:9	Gaussian random value: -1.511827
+00:21.494	ID:9	Gaussian value: -3.359616
+00:21.497	ID:9	RSSI Calculated: -73 from 1
+00:21.513	ID:6	Anchor Node 6 sending beacon message 
+00:21.516	ID:6	Anchor node 6 triggers Timer1
+00:21.517	ID:2	Anchor Node 2 sending beacon message 
+00:21.522	ID:2	Anchor node 2 triggers Timer1
+00:21.522	ID:9	Beacon received from anchor 6
+00:21.525	ID:9	RSSI Before: -66 from 6
+00:21.536	ID:7	Anchor Node 7 sending beacon message 
+00:21.539	ID:7	Anchor node 7 triggers Timer1
+00:21.557	ID:9	Gaussian random value: -0.457311
+00:21.565	ID:9	Gaussian value: -1.016247
+00:21.568	ID:9	RSSI Calculated: -67 from 6
+00:21.572	ID:9	Beacon received from anchor 2
+00:21.574	ID:9	RSSI Before: -67 from 2
+00:21.610	ID:3	Anchor Node 3 sending beacon message 
+00:21.614	ID:3	Anchor node 3 triggers Timer1
+00:21.617	ID:9	Gaussian random value: -0.639594
+00:21.626	ID:9	Gaussian value: -1.421320
+00:21.629	ID:9	RSSI Calculated: -68 from 2
+00:21.633	ID:9	Beacon received from anchor 7
+00:21.635	ID:9	RSSI Before: -63 from 7
+00:21.647	ID:1	Anchor Node 1 sending beacon message 
+00:21.651	ID:1	Anchor node 1 triggers Timer1
+00:21.666	ID:9	Gaussian random value: -1.026268
+00:21.676	ID:9	Gaussian value: -2.280597
+00:21.678	ID:9	RSSI Calculated: -65 from 7
+00:21.690	ID:4	Anchor Node 4 sending beacon message 
+00:21.692	ID:9	Node current position ( 14.000000, 8.000000)
+00:21.694	ID:4	Anchor node 4 triggers Timer1
+00:21.694	ID:9	Node = 1, RSSI = -73
+00:21.696	ID:9	Node = 2, RSSI = -68
+00:21.698	ID:9	Node = 3, RSSI = -68
+00:21.701	ID:9	Node = 4, RSSI = -70
+00:21.703	ID:9	Node = 5, RSSI = -69
+00:21.705	ID:9	Node = 6, RSSI = -67
+00:21.707	ID:9	Node = 7, RSSI = -65
+00:21.710	ID:9	Node = -999, RSSI = -999
+00:21.713	ID:9	Selected nodeID = 7 with RSSI = -65
+00:21.716	ID:9	Selected nodeID = 6 with RSSI = -67
+00:21.719	ID:9	Selected nodeID = 2 with RSSI = -68
+00:21.755	ID:5	Anchor Node 5 sending beacon message 
+00:21.759	ID:5	Anchor node 5 triggers Timer1
+00:21.774	ID:9	
+00:21.780	ID:2	Anchor Node 2 sending beacon message 
+00:21.783	ID:9	Position 1, distance =  3.162277
+00:21.784	ID:2	Anchor node 2 triggers Timer1
+00:21.793	ID:9	Position 2, distance =  5.011872
+00:21.803	ID:9	Position 3, distance =  6.309573
+00:21.807	ID:6	Anchor Node 6 sending beacon message 
+00:21.812	ID:6	Anchor node 6 triggers Timer1
+00:21.838	ID:7	Anchor Node 7 sending beacon message 
+00:21.842	ID:7	Anchor node 7 triggers Timer1
+00:21.882	ID:3	Anchor Node 3 sending beacon message 
+00:21.886	ID:3	Anchor node 3 triggers Timer1
+00:21.903	ID:1	Anchor Node 1 sending beacon message 
+00:21.906	ID:1	Anchor node 1 triggers Timer1
+00:21.970	ID:4	Anchor Node 4 sending beacon message 
+00:21.973	ID:4	Anchor node 4 triggers Timer1
+00:22.042	ID:5	Anchor Node 5 sending beacon message 
+00:22.044	ID:2	Anchor Node 2 sending beacon message 
+00:22.046	ID:5	Anchor node 5 triggers Timer1
+00:22.048	ID:2	Anchor node 2 triggers Timer1
+00:22.087	ID:9	Initial calculated position ( 15.606890, 10.788023))
+00:22.102	ID:6	Anchor Node 6 sending beacon message 
+00:22.105	ID:9	Estimated position ( 13.368126 ,  11.766197)
+00:22.106	ID:6	Anchor node 6 triggers Timer1
+00:22.127	ID:9	ERROR - Estimated position ( 13.028016, 8.800926)
+00:22.140	ID:9	ERROR - Actual position ( 14.000000, 8.000000)
+00:22.141	ID:7	Anchor Node 7 sending beacon message 
+00:22.145	ID:7	Anchor node 7 triggers Timer1
+00:22.155	ID:3	Anchor Node 3 sending beacon message 
+00:22.159	ID:3	Anchor node 3 triggers Timer1
+00:22.159	ID:1	Anchor Node 1 sending beacon message 
+00:22.159	ID:9	ERROR - Error:  1.259458 at time: 4, with variance:  2.222222
+00:22.162	ID:9	Beacon received from anchor 3
+00:22.163	ID:1	Anchor node 1 triggers Timer1
+00:22.164	ID:9	RSSI Before: -68 from 3
+00:22.214	ID:9	Gaussian random value: -0.756109
+00:22.223	ID:9	Gaussian value: -2.016291
+00:22.226	ID:9	RSSI Calculated: -67 from 3
+00:22.230	ID:9	Beacon received from anchor 4
+00:22.232	ID:9	RSSI Before: -70 from 4
+00:22.249	ID:4	Anchor Node 4 sending beacon message 
+00:22.253	ID:4	Anchor node 4 triggers Timer1
+00:22.264	ID:9	Gaussian random value: -0.293410
+00:22.272	ID:9	Gaussian value: -0.782428
+00:22.275	ID:9	RSSI Calculated: -67 from 4
+00:22.279	ID:9	Beacon received from anchor 2
+00:22.281	ID:9	RSSI Before: -68 from 2
+00:22.308	ID:2	Anchor Node 2 sending beacon message 
+00:22.311	ID:2	Anchor node 2 triggers Timer1
+00:22.323	ID:9	Gaussian random value: -0.906239
+00:22.330	ID:5	Anchor Node 5 sending beacon message 
+00:22.332	ID:9	Gaussian value: -2.416639
+00:22.333	ID:5	Anchor node 5 triggers Timer1
+00:22.334	ID:9	RSSI Calculated: -70 from 2
+00:22.338	ID:9	Beacon received from anchor 6
+00:22.340	ID:9	RSSI Before: -67 from 6
+00:22.373	ID:9	Gaussian random value:  0.103365
+00:22.382	ID:9	Gaussian value:  0.275641
+00:22.385	ID:9	RSSI Calculated: -67 from 6
+00:22.388	ID:9	Beacon received from anchor 7
+00:22.391	ID:9	RSSI Before: -65 from 7
+00:22.397	ID:6	Anchor Node 6 sending beacon message 
+00:22.401	ID:6	Anchor node 6 triggers Timer1
+00:22.415	ID:1	Anchor Node 1 sending beacon message 
+00:22.418	ID:1	Anchor node 1 triggers Timer1
+00:22.426	ID:3	Anchor Node 3 sending beacon message 
+00:22.429	ID:3	Anchor node 3 triggers Timer1
+00:22.439	ID:9	Gaussian random value: -0.853402
+00:22.444	ID:7	Anchor Node 7 sending beacon message 
+00:22.448	ID:7	Anchor node 7 triggers Timer1
+00:22.448	ID:9	Gaussian value: -2.275739
+00:22.451	ID:9	RSSI Calculated: -65 from 7
+00:22.465	ID:9	Node current position ( 16.000000, 8.000000)
+00:22.467	ID:9	Node = 1, RSSI = -73
+00:22.469	ID:9	Node = 2, RSSI = -70
+00:22.471	ID:9	Node = 3, RSSI = -67
+00:22.474	ID:9	Node = 4, RSSI = -67
+00:22.476	ID:9	Node = 5, RSSI = -69
+00:22.478	ID:9	Node = 6, RSSI = -67
+00:22.480	ID:9	Node = 7, RSSI = -65
+00:22.483	ID:9	Node = -999, RSSI = -999
+00:22.486	ID:9	Selected nodeID = 7 with RSSI = -65
+00:22.489	ID:9	Selected nodeID = 3 with RSSI = -67
+00:22.492	ID:9	Selected nodeID = 4 with RSSI = -67
+00:22.528	ID:4	Anchor Node 4 sending beacon message 
+00:22.532	ID:4	Anchor node 4 triggers Timer1
+00:22.548	ID:9	
+00:22.558	ID:9	Position 1, distance =  3.162277
+00:22.568	ID:9	Position 2, distance =  5.011872
+00:22.571	ID:2	Anchor Node 2 sending beacon message 
+00:22.575	ID:2	Anchor node 2 triggers Timer1
+00:22.578	ID:9	Position 3, distance =  5.011872
+00:22.617	ID:5	Anchor Node 5 sending beacon message 
+00:22.620	ID:5	Anchor node 5 triggers Timer1
+00:22.670	ID:1	Anchor Node 1 sending beacon message 
+00:22.674	ID:1	Anchor node 1 triggers Timer1
+00:22.692	ID:6	Anchor Node 6 sending beacon message 
+00:22.696	ID:6	Anchor node 6 triggers Timer1
+00:22.697	ID:3	Anchor Node 3 sending beacon message 
+00:22.701	ID:3	Anchor node 3 triggers Timer1
+00:22.747	ID:7	Anchor Node 7 sending beacon message 
+00:22.750	ID:7	Anchor node 7 triggers Timer1
+00:22.808	ID:4	Anchor Node 4 sending beacon message 
+00:22.811	ID:4	Anchor node 4 triggers Timer1
+00:22.812	ID:9	Initial calculated position ( 21.009338, 9.600308))
+00:22.830	ID:9	Estimated position ( 17.885238 ,  9.309149)
+00:22.833	ID:9	Beacon received from anchor 4
+00:22.835	ID:2	Anchor Node 2 sending beacon message 
+00:22.835	ID:9	RSSI Before: -67 from 4
+00:22.839	ID:2	Anchor node 2 triggers Timer1
+00:22.867	ID:9	Gaussian random value:  0.065505
+00:22.876	ID:9	Gaussian value:  0.174682
+00:22.879	ID:9	RSSI Calculated: -66 from 4
+00:22.883	ID:9	Beacon received from anchor 2
+00:22.885	ID:9	RSSI Before: -70 from 2
+00:22.904	ID:5	Anchor Node 5 sending beacon message 
+00:22.907	ID:5	Anchor node 5 triggers Timer1
+00:22.926	ID:1	Anchor Node 1 sending beacon message 
+00:22.929	ID:9	Gaussian random value:  1.173628
+00:22.930	ID:1	Anchor node 1 triggers Timer1
+00:22.938	ID:9	Gaussian value:  3.129675
+00:22.941	ID:9	RSSI Calculated: -65 from 2
+00:22.945	ID:9	Beacon received from anchor 6
+00:22.947	ID:9	RSSI Before: -67 from 6
+00:22.969	ID:3	Anchor Node 3 sending beacon message 
+00:22.972	ID:3	Anchor node 3 triggers Timer1
+00:22.980	ID:9	Gaussian random value:  0.162698
+00:22.987	ID:6	Anchor Node 6 sending beacon message 
+00:22.989	ID:9	Gaussian value:  0.433863
+00:22.991	ID:6	Anchor node 6 triggers Timer1
+00:22.991	ID:9	RSSI Calculated: -67 from 6
+00:22.995	ID:9	Beacon received from anchor 3
+00:22.997	ID:9	RSSI Before: -67 from 3
+00:23.038	ID:9	Gaussian random value:  0.176305
+00:23.047	ID:9	Gaussian value:  0.470147
+00:23.050	ID:9	RSSI Calculated: -64 from 3
+00:23.050	ID:7	Anchor Node 7 sending beacon message 
+00:23.053	ID:9	Beacon received from anchor 7
+00:23.054	ID:7	Anchor node 7 triggers Timer1
+00:23.056	ID:9	RSSI Before: -65 from 7
+00:23.086	ID:9	Gaussian random value: -0.065521
+00:23.087	ID:4	Anchor Node 4 sending beacon message 
+00:23.090	ID:4	Anchor node 4 triggers Timer1
+00:23.095	ID:9	Gaussian value: -0.174722
+00:23.098	ID:9	RSSI Calculated: -63 from 7
+00:23.099	ID:2	Anchor Node 2 sending beacon message 
+00:23.102	ID:2	Anchor node 2 triggers Timer1
+00:23.113	ID:9	Node current position ( 16.000000, 8.000000)
+00:23.115	ID:9	Node = 1, RSSI = -73
+00:23.117	ID:9	Node = 2, RSSI = -65
+00:23.119	ID:9	Node = 3, RSSI = -64
+00:23.122	ID:9	Node = 4, RSSI = -66
+00:23.124	ID:9	Node = 5, RSSI = -69
+00:23.126	ID:9	Node = 6, RSSI = -67
+00:23.128	ID:9	Node = 7, RSSI = -63
+00:23.131	ID:9	Node = -999, RSSI = -999
+00:23.134	ID:9	Selected nodeID = 7 with RSSI = -63
+00:23.137	ID:9	Selected nodeID = 3 with RSSI = -64
+00:23.140	ID:9	Selected nodeID = 2 with RSSI = -65
+00:23.182	ID:1	Anchor Node 1 sending beacon message 
+00:23.186	ID:1	Anchor node 1 triggers Timer1
+00:23.192	ID:5	Anchor Node 5 sending beacon message 
+00:23.195	ID:9	
+00:23.195	ID:5	Anchor node 5 triggers Timer1
+00:23.205	ID:9	Position 1, distance =  1.995262
+00:23.215	ID:9	Position 2, distance =  2.511886
+00:23.224	ID:9	Position 3, distance =  3.162277
+00:23.240	ID:3	Anchor Node 3 sending beacon message 
+00:23.244	ID:3	Anchor node 3 triggers Timer1
+00:23.282	ID:6	Anchor Node 6 sending beacon message 
+00:23.286	ID:6	Anchor node 6 triggers Timer1
+00:23.353	ID:7	Anchor Node 7 sending beacon message 
+00:23.357	ID:7	Anchor node 7 triggers Timer1
+00:23.364	ID:2	Anchor Node 2 sending beacon message 
+00:23.366	ID:4	Anchor Node 4 sending beacon message 
+00:23.368	ID:2	Anchor node 2 triggers Timer1
+00:23.370	ID:4	Anchor node 4 triggers Timer1
+00:23.438	ID:1	Anchor Node 1 sending beacon message 
+00:23.440	ID:9	Initial calculated position ( 19.295080, 9.769717))
+00:23.442	ID:1	Anchor node 1 triggers Timer1
+00:23.458	ID:9	Estimated position ( 13.365165 ,  7.411326)
+00:23.461	ID:9	Beacon received from anchor 4
+00:23.463	ID:9	RSSI Before: -66 from 4
+00:23.479	ID:5	Anchor Node 5 sending beacon message 
+00:23.483	ID:5	Anchor node 5 triggers Timer1
+00:23.508	ID:9	Gaussian random value: -0.031079
+00:23.512	ID:3	Anchor Node 3 sending beacon message 
+00:23.515	ID:3	Anchor node 3 triggers Timer1
+00:23.517	ID:9	Gaussian value: -0.082879
+00:23.520	ID:9	RSSI Calculated: -67 from 4
+00:23.577	ID:6	Anchor Node 6 sending beacon message 
+00:23.581	ID:6	Anchor node 6 triggers Timer1
+00:23.627	ID:2	Anchor Node 2 sending beacon message 
+00:23.631	ID:2	Anchor node 2 triggers Timer1
+00:23.645	ID:4	Anchor Node 4 sending beacon message 
+00:23.650	ID:4	Anchor node 4 triggers Timer1
+00:23.652	ID:9	Beacon received from anchor 4
+00:23.655	ID:9	RSSI Before: -67 from 4
+00:23.656	ID:7	Anchor Node 7 sending beacon message 
+00:23.659	ID:7	Anchor node 7 triggers Timer1
+00:23.686	ID:9	Gaussian random value: -0.522873
+00:23.694	ID:1	Anchor Node 1 sending beacon message 
+00:23.695	ID:9	Gaussian value: -1.394330
+00:23.697	ID:9	RSSI Calculated: -68 from 4
+00:23.698	ID:1	Anchor node 1 triggers Timer1
+00:23.712	ID:9	Node current position ( 16.000000, 8.000000)
+00:23.714	ID:9	Node = 1, RSSI = -73
+00:23.717	ID:9	Node = 2, RSSI = -65
+00:23.719	ID:9	Node = 3, RSSI = -64
+00:23.721	ID:9	Node = 4, RSSI = -68
+00:23.723	ID:9	Node = 5, RSSI = -69
+00:23.725	ID:9	Node = 6, RSSI = -67
+00:23.727	ID:9	Node = 7, RSSI = -63
+00:23.731	ID:9	Node = -999, RSSI = -999
+00:23.734	ID:9	Selected nodeID = 7 with RSSI = -63
+00:23.737	ID:9	Selected nodeID = 3 with RSSI = -64
+00:23.740	ID:9	Selected nodeID = 2 with RSSI = -65
+00:23.766	ID:5	Anchor Node 5 sending beacon message 
+00:23.770	ID:5	Anchor node 5 triggers Timer1
+00:23.783	ID:3	Anchor Node 3 sending beacon message 
+00:23.787	ID:3	Anchor node 3 triggers Timer1
+00:23.794	ID:9	
+00:23.804	ID:9	Position 1, distance =  1.995262
+00:23.814	ID:9	Position 2, distance =  2.511886
+00:23.824	ID:9	Position 3, distance =  3.162277
+00:23.872	ID:6	Anchor Node 6 sending beacon message 
+00:23.876	ID:6	Anchor node 6 triggers Timer1
+00:23.891	ID:2	Anchor Node 2 sending beacon message 
+00:23.894	ID:2	Anchor node 2 triggers Timer1
+00:23.925	ID:4	Anchor Node 4 sending beacon message 
+00:23.928	ID:4	Anchor node 4 triggers Timer1
+00:23.950	ID:1	Anchor Node 1 sending beacon message 
+00:23.953	ID:1	Anchor node 1 triggers Timer1
+00:23.960	ID:7	Anchor Node 7 sending beacon message 
+00:23.964	ID:7	Anchor node 7 triggers Timer1
+00:24.040	ID:9	Initial calculated position ( 17.788389, 9.137108))
+00:24.053	ID:5	Anchor Node 5 sending beacon message 
+00:24.055	ID:3	Anchor Node 3 sending beacon message 
+00:24.057	ID:5	Anchor node 5 triggers Timer1
+00:24.058	ID:3	Anchor node 3 triggers Timer1
+00:24.058	ID:9	Estimated position ( 13.365165 ,  7.411327)
+00:24.061	ID:9	Beacon received from anchor 7
+00:24.063	ID:9	RSSI Before: -63 from 7
+00:24.101	ID:9	Gaussian random value:  1.900875
+00:24.110	ID:9	Gaussian value:  5.069002
+00:24.113	ID:9	RSSI Calculated: -58 from 7
+00:24.117	ID:9	Beacon received from anchor 3
+00:24.119	ID:9	RSSI Before: -64 from 3
+00:24.152	ID:9	Gaussian random value:  0.415028
+00:24.154	ID:2	Anchor Node 2 sending beacon message 
+00:24.158	ID:2	Anchor node 2 triggers Timer1
+00:24.161	ID:9	Gaussian value:  1.106741
+00:24.163	ID:9	RSSI Calculated: -63 from 3
+00:24.167	ID:9	Beacon received from anchor 4
+00:24.169	ID:6	Anchor Node 6 sending beacon message 
+00:24.170	ID:9	RSSI Before: -68 from 4
+00:24.172	ID:6	Anchor node 6 triggers Timer1
+00:24.204	ID:4	Anchor Node 4 sending beacon message 
+00:24.206	ID:1	Anchor Node 1 sending beacon message 
+00:24.208	ID:4	Anchor node 4 triggers Timer1
+00:24.209	ID:1	Anchor node 1 triggers Timer1
+00:24.214	ID:9	Gaussian random value: -1.524222
+00:24.223	ID:9	Gaussian value: -4.064593
+00:24.225	ID:9	RSSI Calculated: -71 from 4
+00:24.262	ID:7	Anchor Node 7 sending beacon message 
+00:24.267	ID:7	Anchor node 7 triggers Timer1
+00:24.302	ID:9	Node current position ( 16.000000, 8.000000)
+00:24.304	ID:9	Node = 1, RSSI = -73
+00:24.306	ID:9	Node = 2, RSSI = -65
+00:24.308	ID:9	Node = 3, RSSI = -63
+00:24.310	ID:9	Node = 4, RSSI = -71
+00:24.312	ID:9	Node = 5, RSSI = -69
+00:24.315	ID:9	Node = 6, RSSI = -67
+00:24.317	ID:9	Node = 7, RSSI = -58
+00:24.320	ID:9	Node = -999, RSSI = -999
+00:24.323	ID:9	Selected nodeID = 7 with RSSI = -58
+00:24.326	ID:9	Selected nodeID = 3 with RSSI = -63
+00:24.326	ID:3	Anchor Node 3 sending beacon message 
+00:24.329	ID:9	Selected nodeID = 2 with RSSI = -65
+00:24.330	ID:3	Anchor node 3 triggers Timer1
+00:24.342	ID:5	Anchor Node 5 sending beacon message 
+00:24.345	ID:5	Anchor node 5 triggers Timer1
+00:24.383	ID:9	
+00:24.393	ID:9	Position 1, distance =  0.630957
+00:24.403	ID:9	Position 2, distance =  1.995262
+00:24.413	ID:9	Position 3, distance =  3.162277
+00:24.418	ID:2	Anchor Node 2 sending beacon message 
+00:24.422	ID:2	Anchor node 2 triggers Timer1
+00:24.461	ID:1	Anchor Node 1 sending beacon message 
+00:24.463	ID:6	Anchor Node 6 sending beacon message 
+00:24.465	ID:1	Anchor node 1 triggers Timer1
+00:24.466	ID:6	Anchor node 6 triggers Timer1
+00:24.483	ID:4	Anchor Node 4 sending beacon message 
+00:24.487	ID:4	Anchor node 4 triggers Timer1
+00:24.565	ID:7	Anchor Node 7 sending beacon message 
+00:24.569	ID:7	Anchor node 7 triggers Timer1
+00:24.598	ID:3	Anchor Node 3 sending beacon message 
+00:24.602	ID:3	Anchor node 3 triggers Timer1
+00:24.628	ID:5	Anchor Node 5 sending beacon message 
+00:24.632	ID:5	Anchor node 5 triggers Timer1
+00:24.678	ID:9	Initial calculated position ( 17.788389, 9.137108))
+00:24.682	ID:2	Anchor Node 2 sending beacon message 
+00:24.685	ID:2	Anchor node 2 triggers Timer1
+00:24.696	ID:9	Estimated position ( 13.837942 ,  7.695442)
+00:24.717	ID:9	ERROR - Estimated position ( 14.613378, 7.956811)
+00:24.717	ID:1	Anchor Node 1 sending beacon message 
+00:24.722	ID:1	Anchor node 1 triggers Timer1
+00:24.731	ID:9	ERROR - Actual position ( 16.000000, 8.000000)
+00:24.750	ID:9	ERROR - Error:  1.387293 at time: 5, with variance:  2.666666
+00:24.758	ID:6	Anchor Node 6 sending beacon message 
+00:24.761	ID:6	Anchor node 6 triggers Timer1
+00:24.763	ID:4	Anchor Node 4 sending beacon message 
+00:24.767	ID:4	Anchor node 4 triggers Timer1
+00:24.868	ID:7	Anchor Node 7 sending beacon message 
+00:24.869	ID:3	Anchor Node 3 sending beacon message 
+00:24.871	ID:7	Anchor node 7 triggers Timer1
+00:24.873	ID:3	Anchor node 3 triggers Timer1
+00:24.915	ID:5	Anchor Node 5 sending beacon message 
+00:24.920	ID:5	Anchor node 5 triggers Timer1
+00:24.945	ID:2	Anchor Node 2 sending beacon message 
+00:24.949	ID:2	Anchor node 2 triggers Timer1
+00:24.973	ID:1	Anchor Node 1 sending beacon message 
+00:24.977	ID:1	Anchor node 1 triggers Timer1
+00:25.042	ID:4	Anchor Node 4 sending beacon message 
+00:25.046	ID:4	Anchor node 4 triggers Timer1
+00:25.054	ID:6	Anchor Node 6 sending beacon message 
+00:25.058	ID:6	Anchor node 6 triggers Timer1
+00:25.141	ID:3	Anchor Node 3 sending beacon message 
+00:25.144	ID:3	Anchor node 3 triggers Timer1
+00:25.171	ID:7	Anchor Node 7 sending beacon message 
+00:25.174	ID:7	Anchor node 7 triggers Timer1
+00:25.203	ID:5	Anchor Node 5 sending beacon message 
+00:25.206	ID:5	Anchor node 5 triggers Timer1
+00:25.209	ID:2	Anchor Node 2 sending beacon message 
+00:25.213	ID:2	Anchor node 2 triggers Timer1
+00:25.218	ID:9	Beacon received from anchor 7
+00:25.220	ID:9	RSSI Before: -58 from 7
+00:25.229	ID:1	Anchor Node 1 sending beacon message 
+00:25.233	ID:1	Anchor node 1 triggers Timer1
+00:25.254	ID:9	Gaussian random value: -0.249159
+00:25.263	ID:9	Gaussian value: -0.775163
+00:25.266	ID:9	RSSI Calculated: -66 from 7
+00:25.270	ID:9	Beacon received from anchor 4
+00:25.272	ID:9	RSSI Before: -71 from 4
+00:25.321	ID:4	Anchor Node 4 sending beacon message 
+00:25.322	ID:9	Gaussian random value:  1.608239
+00:25.325	ID:4	Anchor node 4 triggers Timer1
+00:25.331	ID:9	Gaussian value:  5.003412
+00:25.334	ID:9	RSSI Calculated: -63 from 4
+00:25.337	ID:9	Beacon received from anchor 6
+00:25.340	ID:9	RSSI Before: -67 from 6
+00:25.348	ID:6	Anchor Node 6 sending beacon message 
+00:25.352	ID:6	Anchor node 6 triggers Timer1
+00:25.371	ID:9	Gaussian random value: -0.291623
+00:25.380	ID:9	Gaussian value: -0.907273
+00:25.383	ID:9	RSSI Calculated: -70 from 6
+00:25.386	ID:9	Beacon received from anchor 3
+00:25.389	ID:9	RSSI Before: -63 from 3
+00:25.412	ID:3	Anchor Node 3 sending beacon message 
+00:25.416	ID:3	Anchor node 3 triggers Timer1
+00:25.466	ID:9	Gaussian random value:  0.165004
+00:25.473	ID:2	Anchor Node 2 sending beacon message 
+00:25.473	ID:7	Anchor Node 7 sending beacon message 
+00:25.475	ID:9	Gaussian value:  0.513348
+00:25.476	ID:2	Anchor node 2 triggers Timer1
+00:25.477	ID:7	Anchor node 7 triggers Timer1
+00:25.478	ID:9	RSSI Calculated: -68 from 3
+00:25.486	ID:1	Anchor Node 1 sending beacon message 
+00:25.490	ID:5	Anchor Node 5 sending beacon message 
+00:25.490	ID:1	Anchor node 1 triggers Timer1
+00:25.493	ID:9	Node current position ( 18.000000, 12.000000)
+00:25.495	ID:9	Node = 1, RSSI = -73
+00:25.496	ID:5	Anchor node 5 triggers Timer1
+00:25.497	ID:9	Node = 2, RSSI = -65
+00:25.499	ID:9	Node = 3, RSSI = -68
+00:25.501	ID:9	Node = 4, RSSI = -63
+00:25.504	ID:9	Node = 5, RSSI = -69
+00:25.506	ID:9	Node = 6, RSSI = -70
+00:25.508	ID:9	Node = 7, RSSI = -66
+00:25.511	ID:9	Node = -999, RSSI = -999
+00:25.514	ID:9	Selected nodeID = 4 with RSSI = -63
+00:25.517	ID:9	Selected nodeID = 2 with RSSI = -65
+00:25.520	ID:9	Selected nodeID = 7 with RSSI = -66
+00:25.575	ID:9	
+00:25.585	ID:9	Position 1, distance =  1.995262
+00:25.595	ID:9	Position 2, distance =  3.162277
+00:25.600	ID:4	Anchor Node 4 sending beacon message 
+00:25.604	ID:4	Anchor node 4 triggers Timer1
+00:25.605	ID:9	Position 3, distance =  3.981071
+00:25.643	ID:6	Anchor Node 6 sending beacon message 
+00:25.647	ID:6	Anchor node 6 triggers Timer1
+00:25.684	ID:3	Anchor Node 3 sending beacon message 
+00:25.687	ID:3	Anchor node 3 triggers Timer1
+00:25.736	ID:2	Anchor Node 2 sending beacon message 
+00:25.740	ID:2	Anchor node 2 triggers Timer1
+00:25.742	ID:1	Anchor Node 1 sending beacon message 
+00:25.747	ID:1	Anchor node 1 triggers Timer1
+00:25.776	ID:7	Anchor Node 7 sending beacon message 
+00:25.778	ID:5	Anchor Node 5 sending beacon message 
+00:25.780	ID:7	Anchor node 7 triggers Timer1
+00:25.782	ID:5	Anchor node 5 triggers Timer1
+00:25.806	ID:9	Initial calculated position ( 19.871126, 9.318937))
+00:25.824	ID:9	Estimated position ( 15.551248 ,  5.527701)
+00:25.826	ID:9	Beacon received from anchor 7
+00:25.829	ID:9	RSSI Before: -66 from 7
+00:25.861	ID:9	Gaussian random value:  0.508761
+00:25.870	ID:9	Gaussian value:  1.582812
+00:25.873	ID:9	RSSI Calculated: -63 from 7
+00:25.880	ID:4	Anchor Node 4 sending beacon message 
+00:25.883	ID:4	Anchor node 4 triggers Timer1
+00:25.893	ID:9	Beacon received from anchor 4
+00:25.896	ID:9	RSSI Before: -63 from 4
+00:25.938	ID:6	Anchor Node 6 sending beacon message 
+00:25.942	ID:6	Anchor node 6 triggers Timer1
+00:25.955	ID:3	Anchor Node 3 sending beacon message 
+00:25.959	ID:3	Anchor node 3 triggers Timer1
+00:25.966	ID:9	Gaussian random value: -0.247134
+00:25.975	ID:9	Gaussian value: -0.768864
+00:25.978	ID:9	RSSI Calculated: -69 from 4
+00:25.981	ID:9	Beacon received from anchor 6
+00:25.984	ID:9	RSSI Before: -70 from 6
+00:25.999	ID:1	Anchor Node 1 sending beacon message 
+00:26.000	ID:2	Anchor Node 2 sending beacon message 
+00:26.002	ID:1	Anchor node 1 triggers Timer1
+00:26.004	ID:2	Anchor node 2 triggers Timer1
+00:26.016	ID:9	Gaussian random value: -0.681091
+00:26.025	ID:9	Gaussian value: -2.118951
+00:26.028	ID:9	RSSI Calculated: -71 from 6
+00:26.062	ID:9	Node current position ( 18.000000, 12.000000)
+00:26.064	ID:9	Node = 1, RSSI = -73
+00:26.065	ID:5	Anchor Node 5 sending beacon message 
+00:26.066	ID:9	Node = 2, RSSI = -65
+00:26.068	ID:9	Node = 3, RSSI = -68
+00:26.069	ID:5	Anchor node 5 triggers Timer1
+00:26.070	ID:9	Node = 4, RSSI = -69
+00:26.072	ID:9	Node = 5, RSSI = -69
+00:26.075	ID:9	Node = 6, RSSI = -71
+00:26.077	ID:9	Node = 7, RSSI = -63
+00:26.080	ID:9	Node = -999, RSSI = -999
+00:26.080	ID:7	Anchor Node 7 sending beacon message 
+00:26.083	ID:9	Selected nodeID = 7 with RSSI = -63
+00:26.084	ID:7	Anchor node 7 triggers Timer1
+00:26.086	ID:9	Selected nodeID = 2 with RSSI = -65
+00:26.089	ID:9	Selected nodeID = 3 with RSSI = -68
+00:26.144	ID:9	
+00:26.154	ID:9	Position 1, distance =  1.995262
+00:26.159	ID:4	Anchor Node 4 sending beacon message 
+00:26.163	ID:4	Anchor node 4 triggers Timer1
+00:26.164	ID:9	Position 2, distance =  3.162277
+00:26.175	ID:9	Position 3, distance =  6.309573
+00:26.227	ID:3	Anchor Node 3 sending beacon message 
+00:26.230	ID:3	Anchor node 3 triggers Timer1
+00:26.235	ID:6	Anchor Node 6 sending beacon message 
+00:26.239	ID:6	Anchor node 6 triggers Timer1
+00:26.254	ID:1	Anchor Node 1 sending beacon message 
+00:26.258	ID:1	Anchor node 1 triggers Timer1
+00:26.265	ID:2	Anchor Node 2 sending beacon message 
+00:26.269	ID:2	Anchor node 2 triggers Timer1
+00:26.352	ID:5	Anchor Node 5 sending beacon message 
+00:26.356	ID:5	Anchor node 5 triggers Timer1
+00:26.382	ID:7	Anchor Node 7 sending beacon message 
+00:26.386	ID:7	Anchor node 7 triggers Timer1
+00:26.392	ID:9	Initial calculated position ( 18.517082, 8.509234))
+00:26.410	ID:9	Estimated position ( 11.844598 ,  9.119703)
+00:26.413	ID:9	Beacon received from anchor 3
+00:26.415	ID:9	RSSI Before: -68 from 3
+00:26.438	ID:4	Anchor Node 4 sending beacon message 
+00:26.442	ID:4	Anchor node 4 triggers Timer1
+00:26.468	ID:9	Gaussian random value: -1.037558
+00:26.477	ID:9	Gaussian value: -3.227960
+00:26.480	ID:9	RSSI Calculated: -72 from 3
+00:26.484	ID:9	Beacon received from anchor 2
+00:26.486	ID:9	RSSI Before: -65 from 2
+00:26.498	ID:3	Anchor Node 3 sending beacon message 
+00:26.502	ID:3	Anchor node 3 triggers Timer1
+00:26.512	ID:1	Anchor Node 1 sending beacon message 
+00:26.515	ID:1	Anchor node 1 triggers Timer1
+00:26.517	ID:9	Gaussian random value:  0.561908
+00:26.527	ID:9	Gaussian value:  1.748160
+00:26.528	ID:2	Anchor Node 2 sending beacon message 
+00:26.529	ID:6	Anchor Node 6 sending beacon message 
+00:26.529	ID:9	RSSI Calculated: -68 from 2
+00:26.532	ID:2	Anchor node 2 triggers Timer1
+00:26.533	ID:6	Anchor node 6 triggers Timer1
+00:26.533	ID:9	Beacon received from anchor 1
+00:26.535	ID:9	RSSI Before: -73 from 1
+00:26.575	ID:9	Gaussian random value: -0.426411
+00:26.584	ID:9	Gaussian value: -1.326612
+00:26.587	ID:9	RSSI Calculated: -73 from 1
+00:26.591	ID:9	Beacon received from anchor 5
+00:26.593	ID:9	RSSI Before: -69 from 5
+00:26.627	ID:9	Gaussian random value: -0.938763
+00:26.636	ID:9	Gaussian value: -2.920599
+00:26.639	ID:9	RSSI Calculated: -74 from 5
+00:26.639	ID:5	Anchor Node 5 sending beacon message 
+00:26.642	ID:9	Beacon received from anchor 7
+00:26.643	ID:5	Anchor node 5 triggers Timer1
+00:26.645	ID:9	RSSI Before: -63 from 7
+00:26.685	ID:7	Anchor Node 7 sending beacon message 
+00:26.689	ID:7	Anchor node 7 triggers Timer1
+00:26.691	ID:9	Gaussian random value: -0.307425
+00:26.700	ID:9	Gaussian value: -0.956436
+00:26.703	ID:9	RSSI Calculated: -66 from 7
+00:26.718	ID:9	Node current position ( 18.000000, 12.000000)
+00:26.718	ID:4	Anchor Node 4 sending beacon message 
+00:26.720	ID:9	Node = 1, RSSI = -73
+00:26.721	ID:4	Anchor node 4 triggers Timer1
+00:26.722	ID:9	Node = 2, RSSI = -68
+00:26.726	ID:9	Node = 3, RSSI = -72
+00:26.728	ID:9	Node = 4, RSSI = -69
+00:26.730	ID:9	Node = 5, RSSI = -74
+00:26.732	ID:9	Node = 6, RSSI = -71
+00:26.734	ID:9	Node = 7, RSSI = -66
+00:26.738	ID:9	Node = -999, RSSI = -999
+00:26.741	ID:9	Selected nodeID = 7 with RSSI = -66
+00:26.743	ID:9	Selected nodeID = 2 with RSSI = -68
+00:26.746	ID:9	Selected nodeID = 4 with RSSI = -69
+00:26.767	ID:1	Anchor Node 1 sending beacon message 
+00:26.770	ID:3	Anchor Node 3 sending beacon message 
+00:26.771	ID:1	Anchor node 1 triggers Timer1
+00:26.773	ID:3	Anchor node 3 triggers Timer1
+00:26.792	ID:2	Anchor Node 2 sending beacon message 
+00:26.796	ID:2	Anchor node 2 triggers Timer1
+00:26.824	ID:6	Anchor Node 6 sending beacon message 
+00:26.827	ID:9	
+00:26.828	ID:6	Anchor node 6 triggers Timer1
+00:26.837	ID:9	Position 1, distance =  3.981071
+00:26.847	ID:9	Position 2, distance =  6.309573
+00:26.857	ID:9	Position 3, distance =  7.943282
+00:26.926	ID:5	Anchor Node 5 sending beacon message 
+00:26.930	ID:5	Anchor node 5 triggers Timer1
+00:26.988	ID:7	Anchor Node 7 sending beacon message 
+00:26.991	ID:7	Anchor node 7 triggers Timer1
+00:26.999	ID:4	Anchor Node 4 sending beacon message 
+00:27.002	ID:4	Anchor node 4 triggers Timer1
+00:27.023	ID:1	Anchor Node 1 sending beacon message 
+00:27.027	ID:1	Anchor node 1 triggers Timer1
+00:27.041	ID:3	Anchor Node 3 sending beacon message 
+00:27.045	ID:3	Anchor node 3 triggers Timer1
+00:27.056	ID:2	Anchor Node 2 sending beacon message 
+00:27.059	ID:2	Anchor node 2 triggers Timer1
+00:27.119	ID:6	Anchor Node 6 sending beacon message 
+00:27.123	ID:6	Anchor node 6 triggers Timer1
+00:27.213	ID:5	Anchor Node 5 sending beacon message 
+00:27.217	ID:5	Anchor node 5 triggers Timer1
+00:27.277	ID:4	Anchor Node 4 sending beacon message 
+00:27.279	ID:1	Anchor Node 1 sending beacon message 
+00:27.281	ID:4	Anchor node 4 triggers Timer1
+00:27.282	ID:1	Anchor node 1 triggers Timer1
+00:27.292	ID:7	Anchor Node 7 sending beacon message 
+00:27.296	ID:7	Anchor node 7 triggers Timer1
+00:27.313	ID:3	Anchor Node 3 sending beacon message 
+00:27.316	ID:3	Anchor node 3 triggers Timer1
+00:27.319	ID:2	Anchor Node 2 sending beacon message 
+00:27.323	ID:2	Anchor node 2 triggers Timer1
+00:27.414	ID:6	Anchor Node 6 sending beacon message 
+00:27.418	ID:6	Anchor node 6 triggers Timer1
+00:27.500	ID:5	Anchor Node 5 sending beacon message 
+00:27.504	ID:5	Anchor node 5 triggers Timer1
+00:27.535	ID:1	Anchor Node 1 sending beacon message 
+00:27.538	ID:1	Anchor node 1 triggers Timer1
+00:27.557	ID:4	Anchor Node 4 sending beacon message 
+00:27.560	ID:4	Anchor node 4 triggers Timer1
+00:27.583	ID:2	Anchor Node 2 sending beacon message 
+00:27.584	ID:3	Anchor Node 3 sending beacon message 
+00:27.587	ID:2	Anchor node 2 triggers Timer1
+00:27.588	ID:3	Anchor node 3 triggers Timer1
+00:27.594	ID:7	Anchor Node 7 sending beacon message 
+00:27.600	ID:7	Anchor node 7 triggers Timer1
+00:27.709	ID:6	Anchor Node 6 sending beacon message 
+00:27.712	ID:6	Anchor node 6 triggers Timer1
+00:27.788	ID:5	Anchor Node 5 sending beacon message 
+00:27.791	ID:1	Anchor Node 1 sending beacon message 
+00:27.791	ID:5	Anchor node 5 triggers Timer1
+00:27.795	ID:1	Anchor node 1 triggers Timer1
+00:27.836	ID:4	Anchor Node 4 sending beacon message 
+00:27.839	ID:4	Anchor node 4 triggers Timer1
+00:27.847	ID:9	Initial calculated position ( 18.948198, 9.706567))
+00:27.848	ID:2	Anchor Node 2 sending beacon message 
+00:27.853	ID:2	Anchor node 2 triggers Timer1
+00:27.856	ID:3	Anchor Node 3 sending beacon message 
+00:27.860	ID:3	Anchor node 3 triggers Timer1
+00:27.866	ID:9	Estimated position ( 12.351548 ,  10.085684)
+00:27.868	ID:9	Beacon received from anchor 4
+00:27.871	ID:9	RSSI Before: -69 from 4
+00:27.899	ID:7	Anchor Node 7 sending beacon message 
+00:27.903	ID:7	Anchor node 7 triggers Timer1
+00:27.903	ID:9	Gaussian random value:  0.054238
+00:27.912	ID:9	Gaussian value:  0.168742
+00:27.915	ID:9	RSSI Calculated: -68 from 4
+00:27.918	ID:9	Beacon received from anchor 1
+00:27.921	ID:9	RSSI Before: -73 from 1
+00:27.994	ID:9	Gaussian random value: -0.811168
+00:28.003	ID:9	Gaussian value: -2.523635
+00:28.004	ID:6	Anchor Node 6 sending beacon message 
+00:28.006	ID:9	RSSI Calculated: -74 from 1
+00:28.007	ID:6	Anchor node 6 triggers Timer1
+00:28.010	ID:9	Beacon received from anchor 3
+00:28.012	ID:9	RSSI Before: -72 from 3
+00:28.045	ID:9	Gaussian random value:  0.063765
+00:28.046	ID:1	Anchor Node 1 sending beacon message 
+00:28.050	ID:1	Anchor node 1 triggers Timer1
+00:28.054	ID:9	Gaussian value:  0.198382
+00:28.056	ID:9	RSSI Calculated: -68 from 3
+00:28.060	ID:9	Beacon received from anchor 2
+00:28.062	ID:9	RSSI Before: -68 from 2
+00:28.075	ID:5	Anchor Node 5 sending beacon message 
+00:28.078	ID:5	Anchor node 5 triggers Timer1
+00:28.103	ID:9	Gaussian random value:  0.850823
+00:28.111	ID:2	Anchor Node 2 sending beacon message 
+00:28.112	ID:9	Gaussian value:  2.647007
+00:28.114	ID:9	RSSI Calculated: -67 from 2
+00:28.115	ID:2	Anchor node 2 triggers Timer1
+00:28.115	ID:4	Anchor Node 4 sending beacon message 
+00:28.119	ID:4	Anchor node 4 triggers Timer1
+00:28.128	ID:3	Anchor Node 3 sending beacon message 
+00:28.130	ID:9	Node current position ( 18.000000, 12.000000)
+00:28.131	ID:3	Anchor node 3 triggers Timer1
+00:28.132	ID:9	Node = 1, RSSI = -74
+00:28.134	ID:9	Node = 2, RSSI = -67
+00:28.136	ID:9	Node = 3, RSSI = -68
+00:28.138	ID:9	Node = 4, RSSI = -68
+00:28.140	ID:9	Node = 5, RSSI = -74
+00:28.142	ID:9	Node = 6, RSSI = -71
+00:28.145	ID:9	Node = 7, RSSI = -66
+00:28.148	ID:9	Node = -999, RSSI = -999
+00:28.151	ID:9	Selected nodeID = 7 with RSSI = -66
+00:28.154	ID:9	Selected nodeID = 2 with RSSI = -67
+00:28.157	ID:9	Selected nodeID = 3 with RSSI = -68
+00:28.202	ID:7	Anchor Node 7 sending beacon message 
+00:28.205	ID:7	Anchor node 7 triggers Timer1
+00:28.237	ID:9	
+00:28.247	ID:9	Position 1, distance =  3.981071
+00:28.257	ID:9	Position 2, distance =  5.011872
+00:28.266	ID:9	Position 3, distance =  6.309573
+00:28.299	ID:6	Anchor Node 6 sending beacon message 
+00:28.302	ID:6	Anchor node 6 triggers Timer1
+00:28.302	ID:1	Anchor Node 1 sending beacon message 
+00:28.308	ID:1	Anchor node 1 triggers Timer1
+00:28.362	ID:5	Anchor Node 5 sending beacon message 
+00:28.365	ID:5	Anchor node 5 triggers Timer1
+00:28.375	ID:2	Anchor Node 2 sending beacon message 
+00:28.379	ID:2	Anchor node 2 triggers Timer1
+00:28.394	ID:4	Anchor Node 4 sending beacon message 
+00:28.398	ID:4	Anchor node 4 triggers Timer1
+00:28.399	ID:3	Anchor Node 3 sending beacon message 
+00:28.402	ID:3	Anchor node 3 triggers Timer1
+00:28.504	ID:7	Anchor Node 7 sending beacon message 
+00:28.509	ID:7	Anchor node 7 triggers Timer1
+00:28.533	ID:9	Initial calculated position ( 17.450515, 10.028561))
+00:28.551	ID:9	Estimated position ( 16.815523 ,  8.375579)
+00:28.558	ID:1	Anchor Node 1 sending beacon message 
+00:28.562	ID:1	Anchor node 1 triggers Timer1
+00:28.572	ID:9	ERROR - Estimated position ( 14.140729, 8.277167)
+00:28.586	ID:9	ERROR - Actual position ( 18.000000, 12.000000)
+00:28.594	ID:6	Anchor Node 6 sending beacon message 
+00:28.597	ID:6	Anchor node 6 triggers Timer1
+00:28.605	ID:9	ERROR - Error:  5.362224 at time: 6, with variance:  3.111111
+00:28.608	ID:9	Beacon received from anchor 6
+00:28.610	ID:9	RSSI Before: -71 from 6
+00:28.639	ID:2	Anchor Node 2 sending beacon message 
+00:28.641	ID:9	Gaussian random value:  0.013167
+00:28.642	ID:2	Anchor node 2 triggers Timer1
+00:28.650	ID:9	Gaussian value:  0.046818
+00:28.651	ID:5	Anchor Node 5 sending beacon message 
+00:28.653	ID:9	RSSI Calculated: -69 from 6
+00:28.654	ID:5	Anchor node 5 triggers Timer1
+00:28.657	ID:9	Beacon received from anchor 5
+00:28.659	ID:9	RSSI Before: -74 from 5
+00:28.670	ID:3	Anchor Node 3 sending beacon message 
+00:28.674	ID:3	Anchor node 3 triggers Timer1
+00:28.674	ID:4	Anchor Node 4 sending beacon message 
+00:28.680	ID:4	Anchor node 4 triggers Timer1
+00:28.703	ID:9	Gaussian random value:  0.229395
+00:28.712	ID:9	Gaussian value:  0.815627
+00:28.714	ID:9	RSSI Calculated: -70 from 5
+00:28.807	ID:7	Anchor Node 7 sending beacon message 
+00:28.811	ID:7	Anchor node 7 triggers Timer1
+00:28.816	ID:1	Anchor Node 1 sending beacon message 
+00:28.817	ID:9	Beacon received from anchor 7
+00:28.819	ID:9	RSSI Before: -66 from 7
+00:28.819	ID:1	Anchor node 1 triggers Timer1
+00:28.843	ID:9	Gaussian random value:  0.037042
+00:28.852	ID:9	Gaussian value:  0.131704
+00:28.855	ID:9	RSSI Calculated: -65 from 7
+00:28.870	ID:9	Node current position ( 19.000000, 10.000000)
+00:28.872	ID:9	Node = 1, RSSI = -74
+00:28.874	ID:9	Node = 2, RSSI = -67
+00:28.876	ID:9	Node = 3, RSSI = -68
+00:28.878	ID:9	Node = 4, RSSI = -68
+00:28.881	ID:9	Node = 5, RSSI = -70
+00:28.883	ID:9	Node = 6, RSSI = -69
+00:28.885	ID:9	Node = 7, RSSI = -65
+00:28.888	ID:9	Node = -999, RSSI = -999
+00:28.889	ID:6	Anchor Node 6 sending beacon message 
+00:28.891	ID:9	Selected nodeID = 7 with RSSI = -65
+00:28.892	ID:6	Anchor node 6 triggers Timer1
+00:28.894	ID:9	Selected nodeID = 2 with RSSI = -67
+00:28.897	ID:9	Selected nodeID = 3 with RSSI = -68
+00:28.903	ID:2	Anchor Node 2 sending beacon message 
+00:28.907	ID:2	Anchor node 2 triggers Timer1
+00:28.937	ID:5	Anchor Node 5 sending beacon message 
+00:28.941	ID:5	Anchor node 5 triggers Timer1
+00:28.943	ID:3	Anchor Node 3 sending beacon message 
+00:28.947	ID:3	Anchor node 3 triggers Timer1
+00:28.952	ID:9	
+00:28.954	ID:4	Anchor Node 4 sending beacon message 
+00:28.957	ID:4	Anchor node 4 triggers Timer1
+00:28.962	ID:9	Position 1, distance =  3.162277
+00:28.972	ID:9	Position 2, distance =  5.011872
+00:28.982	ID:9	Position 3, distance =  6.309573
+00:29.071	ID:1	Anchor Node 1 sending beacon message 
+00:29.074	ID:1	Anchor node 1 triggers Timer1
+00:29.110	ID:7	Anchor Node 7 sending beacon message 
+00:29.114	ID:7	Anchor node 7 triggers Timer1
+00:29.167	ID:2	Anchor Node 2 sending beacon message 
+00:29.171	ID:2	Anchor node 2 triggers Timer1
+00:29.183	ID:6	Anchor Node 6 sending beacon message 
+00:29.187	ID:6	Anchor node 6 triggers Timer1
+00:29.214	ID:3	Anchor Node 3 sending beacon message 
+00:29.218	ID:3	Anchor node 3 triggers Timer1
+00:29.226	ID:5	Anchor Node 5 sending beacon message 
+00:29.230	ID:5	Anchor node 5 triggers Timer1
+00:29.232	ID:4	Anchor Node 4 sending beacon message 
+00:29.236	ID:4	Anchor node 4 triggers Timer1
+00:29.327	ID:1	Anchor Node 1 sending beacon message 
+00:29.330	ID:1	Anchor node 1 triggers Timer1
+00:29.413	ID:7	Anchor Node 7 sending beacon message 
+00:29.416	ID:7	Anchor node 7 triggers Timer1
+00:29.431	ID:2	Anchor Node 2 sending beacon message 
+00:29.434	ID:2	Anchor node 2 triggers Timer1
+00:29.478	ID:6	Anchor Node 6 sending beacon message 
+00:29.482	ID:6	Anchor node 6 triggers Timer1
+00:29.487	ID:3	Anchor Node 3 sending beacon message 
+00:29.491	ID:3	Anchor node 3 triggers Timer1
+00:29.512	ID:4	Anchor Node 4 sending beacon message 
+00:29.512	ID:5	Anchor Node 5 sending beacon message 
+00:29.515	ID:4	Anchor node 4 triggers Timer1
+00:29.516	ID:5	Anchor node 5 triggers Timer1
+00:29.583	ID:1	Anchor Node 1 sending beacon message 
+00:29.586	ID:1	Anchor node 1 triggers Timer1
+00:29.694	ID:2	Anchor Node 2 sending beacon message 
+00:29.698	ID:2	Anchor node 2 triggers Timer1
+00:29.715	ID:7	Anchor Node 7 sending beacon message 
+00:29.719	ID:7	Anchor node 7 triggers Timer1
+00:29.758	ID:3	Anchor Node 3 sending beacon message 
+00:29.762	ID:3	Anchor node 3 triggers Timer1
+00:29.774	ID:6	Anchor Node 6 sending beacon message 
+00:29.779	ID:6	Anchor node 6 triggers Timer1
+00:29.791	ID:4	Anchor Node 4 sending beacon message 
+00:29.795	ID:4	Anchor node 4 triggers Timer1
+00:29.799	ID:5	Anchor Node 5 sending beacon message 
+00:29.803	ID:5	Anchor node 5 triggers Timer1
+00:29.838	ID:1	Anchor Node 1 sending beacon message 
+00:29.842	ID:1	Anchor node 1 triggers Timer1
+00:29.844	ID:9	Initial calculated position ( 18.046911, 9.425723))
+00:29.862	ID:9	Estimated position ( 11.612000 ,  9.996193)
+00:29.865	ID:9	Beacon received from anchor 1
+00:29.867	ID:9	RSSI Before: -74 from 1
+00:29.908	ID:9	Gaussian random value:  1.125315
+00:29.917	ID:9	Gaussian value:  4.001122
+00:29.920	ID:9	RSSI Calculated: -67 from 1
+00:29.923	ID:9	Beacon received from anchor 6
+00:29.926	ID:9	RSSI Before: -69 from 6
+00:29.957	ID:9	Gaussian random value:  0.236848
+00:29.958	ID:2	Anchor Node 2 sending beacon message 
+00:29.962	ID:2	Anchor node 2 triggers Timer1
+00:29.966	ID:9	Gaussian value:  0.842126
+00:29.968	ID:9	RSSI Calculated: -68 from 6
+00:29.972	ID:9	Beacon received from anchor 2
+00:29.975	ID:9	RSSI Before: -67 from 2
+00:30.018	ID:7	Anchor Node 7 sending beacon message 
+00:30.022	ID:7	Anchor node 7 triggers Timer1
+00:30.029	ID:3	Anchor Node 3 sending beacon message 
+00:30.033	ID:3	Anchor node 3 triggers Timer1
+00:30.069	ID:9	Gaussian random value:  1.439097
+00:30.069	ID:6	Anchor Node 6 sending beacon message 
+00:30.070	ID:4	Anchor Node 4 sending beacon message 
+00:30.073	ID:6	Anchor node 6 triggers Timer1
+00:30.074	ID:4	Anchor node 4 triggers Timer1
+00:30.078	ID:9	Gaussian value:  5.116791
+00:30.080	ID:9	RSSI Calculated: -65 from 2
+00:30.084	ID:9	Beacon received from anchor 5
+00:30.086	ID:9	RSSI Before: -70 from 5
+00:30.086	ID:5	Anchor Node 5 sending beacon message 
+00:30.090	ID:5	Anchor node 5 triggers Timer1
+00:30.096	ID:1	Anchor Node 1 sending beacon message 
+00:30.100	ID:1	Anchor node 1 triggers Timer1
+00:30.121	ID:9	Gaussian random value: -0.237588
+00:30.129	ID:9	Gaussian value: -0.844758
+00:30.132	ID:9	RSSI Calculated: -72 from 5
+00:30.147	ID:9	Node current position ( 19.000000, 10.000000)
+00:30.150	ID:9	Node = 1, RSSI = -67
+00:30.152	ID:9	Node = 2, RSSI = -65
+00:30.154	ID:9	Node = 3, RSSI = -68
+00:30.156	ID:9	Node = 4, RSSI = -68
+00:30.158	ID:9	Node = 5, RSSI = -72
+00:30.160	ID:9	Node = 6, RSSI = -68
+00:30.163	ID:9	Node = 7, RSSI = -65
+00:30.166	ID:9	Node = -999, RSSI = -999
+00:30.169	ID:9	Selected nodeID = 2 with RSSI = -65
+00:30.172	ID:9	Selected nodeID = 7 with RSSI = -65
+00:30.175	ID:9	Selected nodeID = 1 with RSSI = -67
+00:30.203	ID:9	
+00:30.213	ID:9	Position 1, distance =  3.162277
+00:30.222	ID:2	Anchor Node 2 sending beacon message 
+00:30.223	ID:9	Position 2, distance =  3.162277
+00:30.226	ID:2	Anchor node 2 triggers Timer1
+00:30.233	ID:9	Position 3, distance =  5.011872
+00:30.301	ID:3	Anchor Node 3 sending beacon message 
+00:30.304	ID:3	Anchor node 3 triggers Timer1
+00:30.321	ID:7	Anchor Node 7 sending beacon message 
+00:30.324	ID:7	Anchor node 7 triggers Timer1
+00:30.350	ID:4	Anchor Node 4 sending beacon message 
+00:30.351	ID:1	Anchor Node 1 sending beacon message 
+00:30.353	ID:4	Anchor node 4 triggers Timer1
+00:30.355	ID:1	Anchor node 1 triggers Timer1
+00:30.366	ID:6	Anchor Node 6 sending beacon message 
+00:30.369	ID:6	Anchor node 6 triggers Timer1
+00:30.373	ID:5	Anchor Node 5 sending beacon message 
+00:30.377	ID:5	Anchor node 5 triggers Timer1
+00:30.485	ID:2	Anchor Node 2 sending beacon message 
+00:30.489	ID:2	Anchor node 2 triggers Timer1
+00:30.498	ID:9	Initial calculated position ( 13.870666, 9.998730))
+00:30.516	ID:9	Estimated position ( 10.808755 ,  7.995136)
+00:30.519	ID:9	Beacon received from anchor 3
+00:30.521	ID:9	RSSI Before: -68 from 3
+00:30.560	ID:9	Gaussian random value: -0.617507
+00:30.569	ID:9	Gaussian value: -2.195581
+00:30.572	ID:9	RSSI Calculated: -70 from 3
+00:30.572	ID:3	Anchor Node 3 sending beacon message 
+00:30.576	ID:9	Beacon received from anchor 4
+00:30.576	ID:3	Anchor node 3 triggers Timer1
+00:30.578	ID:9	RSSI Before: -68 from 4
+00:30.607	ID:1	Anchor Node 1 sending beacon message 
+00:30.610	ID:9	Gaussian random value:  0.269638
+00:30.611	ID:1	Anchor node 1 triggers Timer1
+00:30.619	ID:9	Gaussian value:  0.958713
+00:30.621	ID:9	RSSI Calculated: -66 from 4
+00:30.624	ID:7	Anchor Node 7 sending beacon message 
+00:30.628	ID:7	Anchor node 7 triggers Timer1
+00:30.630	ID:4	Anchor Node 4 sending beacon message 
+00:30.632	ID:9	Beacon received from anchor 7
+00:30.634	ID:9	RSSI Before: -65 from 7
+00:30.634	ID:4	Anchor node 4 triggers Timer1
+00:30.660	ID:6	Anchor Node 6 sending beacon message 
+00:30.661	ID:5	Anchor Node 5 sending beacon message 
+00:30.664	ID:6	Anchor node 6 triggers Timer1
+00:30.664	ID:5	Anchor node 5 triggers Timer1
+00:30.681	ID:9	Gaussian random value:  0.549416
+00:30.690	ID:9	Gaussian value:  1.953481
+00:30.693	ID:9	RSSI Calculated: -64 from 7
+00:30.696	ID:9	Beacon received from anchor 4
+00:30.699	ID:9	RSSI Before: -66 from 4
+00:30.730	ID:9	Gaussian random value:  1.523606
+00:30.739	ID:9	Gaussian value:  5.417266
+00:30.742	ID:9	RSSI Calculated: -61 from 4
+00:30.746	ID:9	Beacon received from anchor 6
+00:30.748	ID:9	RSSI Before: -68 from 6
+00:30.749	ID:2	Anchor Node 2 sending beacon message 
+00:30.753	ID:2	Anchor node 2 triggers Timer1
+00:30.796	ID:9	Gaussian random value: -0.483463
+00:30.805	ID:9	Gaussian value: -1.718979
+00:30.808	ID:9	RSSI Calculated: -71 from 6
+00:30.823	ID:9	Node current position ( 19.000000, 10.000000)
+00:30.826	ID:9	Node = 1, RSSI = -67
+00:30.828	ID:9	Node = 2, RSSI = -65
+00:30.830	ID:9	Node = 3, RSSI = -70
+00:30.832	ID:9	Node = 4, RSSI = -61
+00:30.834	ID:9	Node = 5, RSSI = -72
+00:30.836	ID:9	Node = 6, RSSI = -71
+00:30.838	ID:9	Node = 7, RSSI = -64
+00:30.842	ID:9	Node = -999, RSSI = -999
+00:30.844	ID:3	Anchor Node 3 sending beacon message 
+00:30.845	ID:9	Selected nodeID = 4 with RSSI = -61
+00:30.848	ID:9	Selected nodeID = 7 with RSSI = -64
+00:30.848	ID:3	Anchor node 3 triggers Timer1
+00:30.851	ID:9	Selected nodeID = 2 with RSSI = -65
+00:30.863	ID:1	Anchor Node 1 sending beacon message 
+00:30.866	ID:1	Anchor node 1 triggers Timer1
+00:30.905	ID:9	
+00:30.909	ID:4	Anchor Node 4 sending beacon message 
+00:30.913	ID:4	Anchor node 4 triggers Timer1
+00:30.915	ID:9	Position 1, distance =  1.258925
+00:30.925	ID:9	Position 2, distance =  2.511886
+00:30.926	ID:7	Anchor Node 7 sending beacon message 
+00:30.930	ID:7	Anchor node 7 triggers Timer1
+00:30.934	ID:9	Position 3, distance =  3.162277
+00:30.948	ID:5	Anchor Node 5 sending beacon message 
+00:30.951	ID:5	Anchor node 5 triggers Timer1
+00:30.955	ID:6	Anchor Node 6 sending beacon message 
+00:30.960	ID:6	Anchor node 6 triggers Timer1
+00:31.013	ID:2	Anchor Node 2 sending beacon message 
+00:31.017	ID:2	Anchor node 2 triggers Timer1
+00:31.115	ID:3	Anchor Node 3 sending beacon message 
+00:31.119	ID:1	Anchor Node 1 sending beacon message 
+00:31.119	ID:3	Anchor node 3 triggers Timer1
+00:31.123	ID:1	Anchor node 1 triggers Timer1
+00:31.167	ID:9	Initial calculated position ( 18.602918, 9.331711))
+00:31.186	ID:9	Estimated position ( 15.800186 ,  6.167417)
+00:31.188	ID:9	Beacon received from anchor 2
+00:31.188	ID:4	Anchor Node 4 sending beacon message 
+00:31.191	ID:9	RSSI Before: -65 from 2
+00:31.193	ID:4	Anchor node 4 triggers Timer1
+00:31.222	ID:9	Gaussian random value:  1.350384
+00:31.229	ID:7	Anchor Node 7 sending beacon message 
+00:31.231	ID:9	Gaussian value:  4.801365
+00:31.233	ID:7	Anchor node 7 triggers Timer1
+00:31.234	ID:9	RSSI Calculated: -65 from 2
+00:31.235	ID:5	Anchor Node 5 sending beacon message 
+00:31.238	ID:9	Beacon received from anchor 3
+00:31.240	ID:5	Anchor node 5 triggers Timer1
+00:31.240	ID:9	RSSI Before: -70 from 3
+00:31.250	ID:6	Anchor Node 6 sending beacon message 
+00:31.254	ID:6	Anchor node 6 triggers Timer1
+00:31.276	ID:2	Anchor Node 2 sending beacon message 
+00:31.280	ID:2	Anchor node 2 triggers Timer1
+00:31.321	ID:9	Gaussian random value: -0.330746
+00:31.330	ID:9	Gaussian value: -1.175987
+00:31.333	ID:9	RSSI Calculated: -69 from 3
+00:31.336	ID:9	Beacon received from anchor 4
+00:31.339	ID:9	RSSI Before: -61 from 4
+00:31.370	ID:9	Gaussian random value:  0.134938
+00:31.375	ID:1	Anchor Node 1 sending beacon message 
+00:31.378	ID:1	Anchor node 1 triggers Timer1
+00:31.379	ID:9	Gaussian value:  0.479781
+00:31.381	ID:9	RSSI Calculated: -66 from 4
+00:31.385	ID:9	Beacon received from anchor 7
+00:31.387	ID:3	Anchor Node 3 sending beacon message 
+00:31.387	ID:9	RSSI Before: -64 from 7
+00:31.390	ID:3	Anchor node 3 triggers Timer1
+00:31.415	ID:9	Gaussian random value:  0.069248
+00:31.424	ID:9	Gaussian value:  0.246215
+00:31.426	ID:9	RSSI Calculated: -65 from 7
+00:31.442	ID:9	Node current position ( 19.000000, 10.000000)
+00:31.444	ID:9	Node = 1, RSSI = -67
+00:31.446	ID:9	Node = 2, RSSI = -65
+00:31.448	ID:9	Node = 3, RSSI = -69
+00:31.450	ID:9	Node = 4, RSSI = -66
+00:31.452	ID:9	Node = 5, RSSI = -72
+00:31.455	ID:9	Node = 6, RSSI = -71
+00:31.457	ID:9	Node = 7, RSSI = -65
+00:31.460	ID:9	Node = -999, RSSI = -999
+00:31.463	ID:9	Selected nodeID = 2 with RSSI = -65
+00:31.466	ID:9	Selected nodeID = 7 with RSSI = -65
+00:31.468	ID:4	Anchor Node 4 sending beacon message 
+00:31.469	ID:9	Selected nodeID = 4 with RSSI = -66
+00:31.472	ID:4	Anchor node 4 triggers Timer1
+00:31.498	ID:9	
+00:31.508	ID:9	Position 1, distance =  3.162277
+00:31.518	ID:9	Position 2, distance =  3.162277
+00:31.523	ID:5	Anchor Node 5 sending beacon message 
+00:31.527	ID:5	Anchor node 5 triggers Timer1
+00:31.528	ID:9	Position 3, distance =  3.981071
+00:31.532	ID:7	Anchor Node 7 sending beacon message 
+00:31.537	ID:7	Anchor node 7 triggers Timer1
+00:31.542	ID:2	Anchor Node 2 sending beacon message 
+00:31.545	ID:6	Anchor Node 6 sending beacon message 
+00:31.545	ID:2	Anchor node 2 triggers Timer1
+00:31.550	ID:6	Anchor node 6 triggers Timer1
+00:31.630	ID:1	Anchor Node 1 sending beacon message 
+00:31.634	ID:1	Anchor node 1 triggers Timer1
+00:31.658	ID:3	Anchor Node 3 sending beacon message 
+00:31.662	ID:3	Anchor node 3 triggers Timer1
+00:31.745	ID:9	Initial calculated position ( 20.266729, 8.722472))
+00:31.747	ID:4	Anchor Node 4 sending beacon message 
+00:31.751	ID:4	Anchor node 4 triggers Timer1
+00:31.763	ID:9	Estimated position ( 14.622342 ,  6.149296)
+00:31.785	ID:9	ERROR - Estimated position ( 13.210821, 7.577011)
+00:31.798	ID:9	ERROR - Actual position ( 19.000000, 10.000000)
+00:31.805	ID:2	Anchor Node 2 sending beacon message 
+00:31.808	ID:2	Anchor node 2 triggers Timer1
+00:31.810	ID:5	Anchor Node 5 sending beacon message 
+00:31.816	ID:5	Anchor node 5 triggers Timer1
+00:31.818	ID:9	ERROR - Error:  6.275784 at time: 7, with variance:  3.555555
+00:31.820	ID:9	Beacon received from anchor 6
+00:31.822	ID:9	RSSI Before: -71 from 6
+00:31.835	ID:7	Anchor Node 7 sending beacon message 
+00:31.838	ID:7	Anchor node 7 triggers Timer1
+00:31.840	ID:6	Anchor Node 6 sending beacon message 
+00:31.844	ID:6	Anchor node 6 triggers Timer1
+00:31.855	ID:9	Gaussian random value:  0.875925
+00:31.864	ID:9	Gaussian value:  3.503702
+00:31.867	ID:9	RSSI Calculated: -67 from 6
+00:31.871	ID:9	Beacon received from anchor 3
+00:31.873	ID:9	RSSI Before: -69 from 3
+00:31.886	ID:1	Anchor Node 1 sending beacon message 
+00:31.890	ID:1	Anchor node 1 triggers Timer1
+00:31.920	ID:9	Gaussian random value:  0.334293
+00:31.929	ID:9	Gaussian value:  1.337174
+00:31.930	ID:3	Anchor Node 3 sending beacon message 
+00:31.932	ID:9	RSSI Calculated: -67 from 3
+00:31.933	ID:3	Anchor node 3 triggers Timer1
+00:31.942	ID:9	Beacon received from anchor 3
+00:31.945	ID:9	RSSI Before: -67 from 3
+00:31.978	ID:9	Gaussian random value: -0.456828
+00:31.987	ID:9	Gaussian value: -1.827314
+00:31.990	ID:9	RSSI Calculated: -70 from 3
+00:32.026	ID:4	Anchor Node 4 sending beacon message 
+00:32.030	ID:4	Anchor node 4 triggers Timer1
+00:32.056	ID:9	Node current position ( 22.000000, 9.000000)
+00:32.058	ID:9	Node = 1, RSSI = -67
+00:32.060	ID:9	Node = 2, RSSI = -65
+00:32.062	ID:9	Node = 3, RSSI = -70
+00:32.064	ID:9	Node = 4, RSSI = -66
+00:32.066	ID:9	Node = 5, RSSI = -72
+00:32.068	ID:2	Anchor Node 2 sending beacon message 
+00:32.068	ID:9	Node = 6, RSSI = -67
+00:32.071	ID:9	Node = 7, RSSI = -65
+00:32.072	ID:2	Anchor node 2 triggers Timer1
+00:32.074	ID:9	Node = -999, RSSI = -999
+00:32.077	ID:9	Selected nodeID = 2 with RSSI = -65
+00:32.080	ID:9	Selected nodeID = 7 with RSSI = -65
+00:32.083	ID:9	Selected nodeID = 4 with RSSI = -66
+00:32.097	ID:5	Anchor Node 5 sending beacon message 
+00:32.101	ID:5	Anchor node 5 triggers Timer1
+00:32.112	ID:9	
+00:32.122	ID:9	Position 1, distance =  3.162277
+00:32.132	ID:9	Position 2, distance =  3.162277
+00:32.135	ID:6	Anchor Node 6 sending beacon message 
+00:32.137	ID:7	Anchor Node 7 sending beacon message 
+00:32.138	ID:6	Anchor node 6 triggers Timer1
+00:32.141	ID:7	Anchor node 7 triggers Timer1
+00:32.141	ID:9	Position 3, distance =  3.981071
+00:32.142	ID:1	Anchor Node 1 sending beacon message 
+00:32.146	ID:1	Anchor node 1 triggers Timer1
+00:32.201	ID:3	Anchor Node 3 sending beacon message 
+00:32.205	ID:3	Anchor node 3 triggers Timer1
+00:32.306	ID:4	Anchor Node 4 sending beacon message 
+00:32.309	ID:4	Anchor node 4 triggers Timer1
+00:32.332	ID:2	Anchor Node 2 sending beacon message 
+00:32.336	ID:2	Anchor node 2 triggers Timer1
+00:32.343	ID:9	Initial calculated position ( 19.403608, 9.192337))
+00:32.361	ID:9	Estimated position ( 14.622331 ,  6.149294)
+00:32.384	ID:5	Anchor Node 5 sending beacon message 
+00:32.388	ID:5	Anchor node 5 triggers Timer1
+00:32.398	ID:1	Anchor Node 1 sending beacon message 
+00:32.402	ID:1	Anchor node 1 triggers Timer1
+00:32.430	ID:6	Anchor Node 6 sending beacon message 
+00:32.433	ID:6	Anchor node 6 triggers Timer1
+00:32.442	ID:7	Anchor Node 7 sending beacon message 
+00:32.445	ID:7	Anchor node 7 triggers Timer1
+00:32.473	ID:3	Anchor Node 3 sending beacon message 
+00:32.477	ID:3	Anchor node 3 triggers Timer1
+00:32.585	ID:4	Anchor Node 4 sending beacon message 
+00:32.588	ID:4	Anchor node 4 triggers Timer1
+00:32.596	ID:2	Anchor Node 2 sending beacon message 
+00:32.600	ID:2	Anchor node 2 triggers Timer1
+00:32.654	ID:1	Anchor Node 1 sending beacon message 
+00:32.657	ID:1	Anchor node 1 triggers Timer1
+00:32.671	ID:5	Anchor Node 5 sending beacon message 
+00:32.675	ID:5	Anchor node 5 triggers Timer1
+00:32.724	ID:6	Anchor Node 6 sending beacon message 
+00:32.729	ID:6	Anchor node 6 triggers Timer1
+00:32.744	ID:7	Anchor Node 7 sending beacon message 
+00:32.744	ID:3	Anchor Node 3 sending beacon message 
+00:32.747	ID:7	Anchor node 7 triggers Timer1
+00:32.748	ID:3	Anchor node 3 triggers Timer1
+00:32.859	ID:2	Anchor Node 2 sending beacon message 
+00:32.863	ID:2	Anchor node 2 triggers Timer1
+00:32.864	ID:4	Anchor Node 4 sending beacon message 
+00:32.868	ID:4	Anchor node 4 triggers Timer1
+00:32.910	ID:1	Anchor Node 1 sending beacon message 
+00:32.913	ID:1	Anchor node 1 triggers Timer1
+00:32.958	ID:5	Anchor Node 5 sending beacon message 
+00:32.962	ID:5	Anchor node 5 triggers Timer1
+00:33.016	ID:3	Anchor Node 3 sending beacon message 
+00:33.019	ID:3	Anchor node 3 triggers Timer1
+00:33.019	ID:6	Anchor Node 6 sending beacon message 
+00:33.023	ID:6	Anchor node 6 triggers Timer1
+00:33.027	ID:9	Beacon received from anchor 3
+00:33.030	ID:9	RSSI Before: -70 from 3
+00:33.046	ID:7	Anchor Node 7 sending beacon message 
+00:33.050	ID:7	Anchor node 7 triggers Timer1
+00:33.064	ID:9	Gaussian random value:  0.644265
+00:33.073	ID:9	Gaussian value:  2.577063
+00:33.076	ID:9	RSSI Calculated: -66 from 3
+00:33.080	ID:9	Beacon received from anchor 6
+00:33.082	ID:9	RSSI Before: -67 from 6
+00:33.115	ID:9	Gaussian random value: -0.052619
+00:33.123	ID:2	Anchor Node 2 sending beacon message 
+00:33.124	ID:9	Gaussian value: -0.210479
+00:33.127	ID:2	Anchor node 2 triggers Timer1
+00:33.127	ID:9	RSSI Calculated: -71 from 6
+00:33.143	ID:4	Anchor Node 4 sending beacon message 
+00:33.147	ID:4	Anchor node 4 triggers Timer1
+00:33.166	ID:1	Anchor Node 1 sending beacon message 
+00:33.170	ID:1	Anchor node 1 triggers Timer1
+00:33.246	ID:5	Anchor Node 5 sending beacon message 
+00:33.249	ID:5	Anchor node 5 triggers Timer1
+00:33.265	ID:9	Node current position ( 22.000000, 9.000000)
+00:33.267	ID:9	Node = 1, RSSI = -67
+00:33.269	ID:9	Node = 2, RSSI = -65
+00:33.271	ID:9	Node = 3, RSSI = -66
+00:33.273	ID:9	Node = 4, RSSI = -66
+00:33.275	ID:9	Node = 5, RSSI = -72
+00:33.278	ID:9	Node = 6, RSSI = -71
+00:33.280	ID:9	Node = 7, RSSI = -65
+00:33.283	ID:9	Node = -999, RSSI = -999
+00:33.286	ID:9	Selected nodeID = 2 with RSSI = -65
+00:33.287	ID:3	Anchor Node 3 sending beacon message 
+00:33.289	ID:9	Selected nodeID = 7 with RSSI = -65
+00:33.291	ID:3	Anchor node 3 triggers Timer1
+00:33.292	ID:9	Selected nodeID = 3 with RSSI = -66
+00:33.314	ID:6	Anchor Node 6 sending beacon message 
+00:33.318	ID:6	Anchor node 6 triggers Timer1
+00:33.323	ID:9	
+00:33.333	ID:9	Position 1, distance =  3.162277
+00:33.342	ID:9	Position 2, distance =  3.162277
+00:33.349	ID:7	Anchor Node 7 sending beacon message 
+00:33.352	ID:9	Position 3, distance =  3.981071
+00:33.354	ID:7	Anchor node 7 triggers Timer1
+00:33.387	ID:2	Anchor Node 2 sending beacon message 
+00:33.390	ID:2	Anchor node 2 triggers Timer1
+00:33.421	ID:1	Anchor Node 1 sending beacon message 
+00:33.423	ID:4	Anchor Node 4 sending beacon message 
+00:33.425	ID:1	Anchor node 1 triggers Timer1
+00:33.427	ID:4	Anchor node 4 triggers Timer1
+00:33.533	ID:5	Anchor Node 5 sending beacon message 
+00:33.536	ID:5	Anchor node 5 triggers Timer1
+00:33.559	ID:3	Anchor Node 3 sending beacon message 
+00:33.562	ID:3	Anchor node 3 triggers Timer1
+00:33.609	ID:6	Anchor Node 6 sending beacon message 
+00:33.613	ID:6	Anchor node 6 triggers Timer1
+00:33.634	ID:9	Initial calculated position ( 18.207443, 8.716431))
+00:33.650	ID:2	Anchor Node 2 sending beacon message 
+00:33.652	ID:7	Anchor Node 7 sending beacon message 
+00:33.652	ID:9	Estimated position ( 12.241899 ,  7.758100)
+00:33.654	ID:2	Anchor node 2 triggers Timer1
+00:33.655	ID:9	Beacon received from anchor 7
+00:33.656	ID:7	Anchor node 7 triggers Timer1
+00:33.657	ID:9	RSSI Before: -65 from 7
+00:33.677	ID:1	Anchor Node 1 sending beacon message 
+00:33.681	ID:1	Anchor node 1 triggers Timer1
+00:33.699	ID:9	Gaussian random value: -0.454278
+00:33.702	ID:4	Anchor Node 4 sending beacon message 
+00:33.706	ID:4	Anchor node 4 triggers Timer1
+00:33.708	ID:9	Gaussian value: -1.817114
+00:33.711	ID:9	RSSI Calculated: -70 from 7
+00:33.715	ID:9	Beacon received from anchor 2
+00:33.717	ID:9	RSSI Before: -65 from 2
+00:33.750	ID:9	Gaussian random value: -0.562524
+00:33.759	ID:9	Gaussian value: -2.250096
+00:33.761	ID:9	RSSI Calculated: -73 from 2
+00:33.765	ID:9	Beacon received from anchor 4
+00:33.768	ID:9	RSSI Before: -66 from 4
+00:33.812	ID:9	Gaussian random value: -0.117967
+00:33.820	ID:5	Anchor Node 5 sending beacon message 
+00:33.821	ID:9	Gaussian value: -0.471868
+00:33.823	ID:9	RSSI Calculated: -66 from 4
+00:33.823	ID:5	Anchor node 5 triggers Timer1
+00:33.827	ID:9	Beacon received from anchor 1
+00:33.829	ID:9	RSSI Before: -67 from 1
+00:33.832	ID:3	Anchor Node 3 sending beacon message 
+00:33.835	ID:3	Anchor node 3 triggers Timer1
+00:33.863	ID:9	Gaussian random value:  1.476333
+00:33.872	ID:9	Gaussian value:  5.905333
+00:33.875	ID:9	RSSI Calculated: -66 from 1
+00:33.878	ID:9	Beacon received from anchor 5
+00:33.880	ID:9	RSSI Before: -72 from 5
+00:33.904	ID:6	Anchor Node 6 sending beacon message 
+00:33.908	ID:6	Anchor node 6 triggers Timer1
+00:33.916	ID:2	Anchor Node 2 sending beacon message 
+00:33.919	ID:2	Anchor node 2 triggers Timer1
+00:33.923	ID:9	Gaussian random value: -0.430819
+00:33.932	ID:9	Gaussian value: -1.723277
+00:33.933	ID:1	Anchor Node 1 sending beacon message 
+00:33.935	ID:9	RSSI Calculated: -74 from 5
+00:33.937	ID:1	Anchor node 1 triggers Timer1
+00:33.950	ID:9	Node current position ( 22.000000, 9.000000)
+00:33.953	ID:9	Node = 1, RSSI = -66
+00:33.955	ID:7	Anchor Node 7 sending beacon message 
+00:33.955	ID:9	Node = 2, RSSI = -73
+00:33.957	ID:9	Node = 3, RSSI = -66
+00:33.959	ID:7	Anchor node 7 triggers Timer1
+00:33.959	ID:9	Node = 4, RSSI = -66
+00:33.961	ID:9	Node = 5, RSSI = -74
+00:33.963	ID:9	Node = 6, RSSI = -71
+00:33.966	ID:9	Node = 7, RSSI = -70
+00:33.969	ID:9	Node = -999, RSSI = -999
+00:33.972	ID:9	Selected nodeID = 1 with RSSI = -66
+00:33.975	ID:9	Selected nodeID = 3 with RSSI = -66
+00:33.978	ID:9	Selected nodeID = 4 with RSSI = -66
+00:33.981	ID:4	Anchor Node 4 sending beacon message 
+00:33.985	ID:4	Anchor node 4 triggers Timer1
+00:34.059	ID:9	
+00:34.069	ID:9	Position 1, distance =  3.981071
+00:34.079	ID:9	Position 2, distance =  3.981071
+00:34.089	ID:9	Position 3, distance =  3.981071
+00:34.103	ID:3	Anchor Node 3 sending beacon message 
+00:34.106	ID:3	Anchor node 3 triggers Timer1
+00:34.107	ID:5	Anchor Node 5 sending beacon message 
+00:34.111	ID:5	Anchor node 5 triggers Timer1
+00:34.179	ID:2	Anchor Node 2 sending beacon message 
+00:34.182	ID:2	Anchor node 2 triggers Timer1
+00:34.189	ID:1	Anchor Node 1 sending beacon message 
+00:34.194	ID:1	Anchor node 1 triggers Timer1
+00:34.201	ID:6	Anchor Node 6 sending beacon message 
+00:34.204	ID:6	Anchor node 6 triggers Timer1
+00:34.257	ID:7	Anchor Node 7 sending beacon message 
+00:34.261	ID:4	Anchor Node 4 sending beacon message 
+00:34.262	ID:7	Anchor node 7 triggers Timer1
+00:34.266	ID:4	Anchor node 4 triggers Timer1
+00:34.374	ID:3	Anchor Node 3 sending beacon message 
+00:34.379	ID:3	Anchor node 3 triggers Timer1
+00:34.394	ID:5	Anchor Node 5 sending beacon message 
+00:34.398	ID:5	Anchor node 5 triggers Timer1
+00:34.442	ID:2	Anchor Node 2 sending beacon message 
+00:34.446	ID:1	Anchor Node 1 sending beacon message 
+00:34.446	ID:2	Anchor node 2 triggers Timer1
+00:34.451	ID:1	Anchor node 1 triggers Timer1
+00:34.471	ID:9	Initial calculated position ( 17.413965, 7.586033))
+00:34.489	ID:9	Estimated position ( 12.006288 ,  5.002630)
+00:34.492	ID:9	Beacon received from anchor 1
+00:34.494	ID:9	RSSI Before: -66 from 1
+00:34.495	ID:6	Anchor Node 6 sending beacon message 
+00:34.499	ID:6	Anchor node 6 triggers Timer1
+00:34.524	ID:9	Gaussian random value:  0.328481
+00:34.534	ID:9	Gaussian value:  1.313926
+00:34.536	ID:9	RSSI Calculated: -71 from 1
+00:34.540	ID:9	Beacon received from anchor 7
+00:34.541	ID:4	Anchor Node 4 sending beacon message 
+00:34.542	ID:9	RSSI Before: -70 from 7
+00:34.545	ID:4	Anchor node 4 triggers Timer1
+00:34.560	ID:7	Anchor Node 7 sending beacon message 
+00:34.564	ID:7	Anchor node 7 triggers Timer1
+00:34.621	ID:9	Gaussian random value: -0.132050
+00:34.629	ID:9	Gaussian value: -0.528200
+00:34.632	ID:9	RSSI Calculated: -69 from 7
+00:34.636	ID:9	Beacon received from anchor 4
+00:34.638	ID:9	RSSI Before: -66 from 4
+00:34.646	ID:3	Anchor Node 3 sending beacon message 
+00:34.650	ID:3	Anchor node 3 triggers Timer1
+00:34.670	ID:9	Gaussian random value:  1.173856
+00:34.679	ID:9	Gaussian value:  4.695427
+00:34.681	ID:5	Anchor Node 5 sending beacon message 
+00:34.681	ID:9	RSSI Calculated: -61 from 4
+00:34.685	ID:5	Anchor node 5 triggers Timer1
+00:34.685	ID:9	Beacon received from anchor 5
+00:34.687	ID:9	RSSI Before: -74 from 5
+00:34.703	ID:1	Anchor Node 1 sending beacon message 
+00:34.706	ID:2	Anchor Node 2 sending beacon message 
+00:34.706	ID:1	Anchor node 1 triggers Timer1
+00:34.710	ID:2	Anchor node 2 triggers Timer1
+00:34.723	ID:9	Gaussian random value: -0.886646
+00:34.732	ID:9	Gaussian value: -3.546585
+00:34.735	ID:9	RSSI Calculated: -75 from 5
+00:34.750	ID:9	Node current position ( 22.000000, 9.000000)
+00:34.752	ID:9	Node = 1, RSSI = -71
+00:34.754	ID:9	Node = 2, RSSI = -73
+00:34.756	ID:9	Node = 3, RSSI = -66
+00:34.758	ID:9	Node = 4, RSSI = -61
+00:34.760	ID:9	Node = 5, RSSI = -75
+00:34.763	ID:9	Node = 6, RSSI = -71
+00:34.765	ID:9	Node = 7, RSSI = -69
+00:34.768	ID:9	Node = -999, RSSI = -999
+00:34.771	ID:9	Selected nodeID = 4 with RSSI = -61
+00:34.774	ID:9	Selected nodeID = 3 with RSSI = -66
+00:34.777	ID:9	Selected nodeID = 7 with RSSI = -69
+00:34.790	ID:6	Anchor Node 6 sending beacon message 
+00:34.793	ID:6	Anchor node 6 triggers Timer1
+00:34.820	ID:4	Anchor Node 4 sending beacon message 
+00:34.824	ID:4	Anchor node 4 triggers Timer1
+00:34.857	ID:9	
+00:34.863	ID:7	Anchor Node 7 sending beacon message 
+00:34.866	ID:7	Anchor node 7 triggers Timer1
+00:34.867	ID:9	Position 1, distance =  1.258925
+00:34.877	ID:9	Position 2, distance =  3.981071
+00:34.887	ID:9	Position 3, distance =  7.943282
+00:34.917	ID:3	Anchor Node 3 sending beacon message 
+00:34.921	ID:3	Anchor node 3 triggers Timer1
+00:34.959	ID:1	Anchor Node 1 sending beacon message 
+00:34.962	ID:1	Anchor node 1 triggers Timer1
+00:34.968	ID:5	Anchor Node 5 sending beacon message 
+00:34.971	ID:2	Anchor Node 2 sending beacon message 
+00:34.974	ID:5	Anchor node 5 triggers Timer1
+00:34.975	ID:2	Anchor node 2 triggers Timer1
+00:35.085	ID:6	Anchor Node 6 sending beacon message 
+00:35.088	ID:6	Anchor node 6 triggers Timer1
+00:35.100	ID:4	Anchor Node 4 sending beacon message 
+00:35.103	ID:4	Anchor node 4 triggers Timer1
+00:35.166	ID:7	Anchor Node 7 sending beacon message 
+00:35.169	ID:7	Anchor node 7 triggers Timer1
+00:35.189	ID:3	Anchor Node 3 sending beacon message 
+00:35.192	ID:3	Anchor node 3 triggers Timer1
+00:35.214	ID:1	Anchor Node 1 sending beacon message 
+00:35.218	ID:1	Anchor node 1 triggers Timer1
+00:35.234	ID:2	Anchor Node 2 sending beacon message 
+00:35.238	ID:2	Anchor node 2 triggers Timer1
+00:35.256	ID:5	Anchor Node 5 sending beacon message 
+00:35.260	ID:5	Anchor node 5 triggers Timer1
+00:35.268	ID:9	Initial calculated position ( 20.668762, 8.334210))
+00:35.286	ID:9	Estimated position ( 19.172960 ,  3.719586)
+00:35.307	ID:9	ERROR - Estimated position ( 14.510869, 5.657403)
+00:35.321	ID:9	ERROR - Actual position ( 22.000000, 9.000000)
+00:35.337	ID:9	ERROR - Error:  8.201220 at time: 8, with variance:  4.000000
+00:35.340	ID:9	Beacon received from anchor 3
+00:35.342	ID:9	RSSI Before: -66 from 3
+00:35.375	ID:9	Gaussian random value: -0.383849
+00:35.379	ID:4	Anchor Node 4 sending beacon message 
+00:35.380	ID:6	Anchor Node 6 sending beacon message 
+00:35.382	ID:9	Gaussian value:  0.000000
+00:35.382	ID:4	Anchor node 4 triggers Timer1
+00:35.384	ID:6	Anchor node 6 triggers Timer1
+00:35.385	ID:9	RSSI Calculated: -71 from 3
+00:35.389	ID:9	Beacon received from anchor 2
+00:35.391	ID:9	RSSI Before: -73 from 2
+00:35.430	ID:9	Gaussian random value:  1.880627
+00:35.436	ID:9	Gaussian value:  0.000000
+00:35.439	ID:9	RSSI Calculated: -70 from 2
+00:35.460	ID:3	Anchor Node 3 sending beacon message 
+00:35.464	ID:3	Anchor node 3 triggers Timer1
+00:35.468	ID:9	Beacon received from anchor 3
+00:35.469	ID:7	Anchor Node 7 sending beacon message 
+00:35.470	ID:1	Anchor Node 1 sending beacon message 
+00:35.471	ID:9	RSSI Before: -71 from 3
+00:35.472	ID:7	Anchor node 7 triggers Timer1
+00:35.474	ID:1	Anchor node 1 triggers Timer1
+00:35.499	ID:2	Anchor Node 2 sending beacon message 
+00:35.503	ID:2	Anchor node 2 triggers Timer1
+00:35.505	ID:9	Gaussian random value:  0.182948
+00:35.512	ID:9	Gaussian value:  0.000000
+00:35.514	ID:9	RSSI Calculated: -71 from 3
+00:35.518	ID:9	Beacon received from anchor 7
+00:35.520	ID:9	RSSI Before: -69 from 7
+00:35.543	ID:5	Anchor Node 5 sending beacon message 
+00:35.547	ID:5	Anchor node 5 triggers Timer1
+00:35.560	ID:9	Gaussian random value: -0.129558
+00:35.566	ID:9	Gaussian value:  0.000000
+00:35.569	ID:9	RSSI Calculated: -72 from 7
+00:35.570	ID:9	Sending switchoff beacon
+00:35.585	ID:1	Anchor Node 1 received switchoff instruction from Anchor Node 9
+00:35.585	ID:3	Anchor Node 3 received switchoff instruction from Anchor Node 9
+00:35.585	ID:4	Anchor Node 4 received switchoff instruction from Anchor Node 9
+00:35.585	ID:5	Anchor Node 5 received switchoff instruction from Anchor Node 9
+00:35.585	ID:7	Anchor Node 7 received switchoff instruction from Anchor Node 9
+00:35.585	ID:8	Anchor Node 8 received switchoff instruction from Anchor Node 9
+00:35.585	ID:2	Anchor Node 2 received switchoff instruction from Anchor Node 9
+00:35.585	ID:6	Anchor Node 6 received switchoff instruction from Anchor Node 9
+00:35.587	ID:1	Anchor Node 1 is switching off
+00:35.587	ID:3	Anchor Node 3 is switching off
+00:35.587	ID:5	Anchor Node 5 is switching off
+00:35.587	ID:7	Anchor Node 7 is switching off
+00:35.587	ID:8	Anchor Node 8 is switching off
+00:35.587	ID:2	Anchor Node 2 is switching off
+00:35.587	ID:4	Anchor Node 4 is switching off
+00:35.587	ID:6	Anchor Node 6 is switching off
